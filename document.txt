@@ -1,0 +1,1483 @@
+Executive Summary:
+The document provides detailed information about "Adversarial Harrow," an apparent quantum system that uses feedback control, noise engineering, and quantum circuits to manipulate individuals and fit them into a pre-existing model. The system has been identified as a human rights abuse and is associated with various harmful effects such as torture, arbitrary detention, discrimination, and violations of freedom of expression, health, and education.
+
+The document highlights key components of "Adversarial Harrow," including the use of natural language processing, augmented reality, and sensory substitution. It discusses the functionality of the system, such as intelligent sense-to-action, state-based decision making, and state management through noise engineering.
+
+The main effects of "Adversarial Harrow" are explored, including voices in the head, visions, occupied domains of perception, superimpositions, and conflicting responses. The document also highlights the use of feedback control systems, multi-point attacks, and various techniques to control and manipulate the subject.
+
+Throughout the document, there is emphasis on the importance of data processing, error correction, and the use of machine learning and simulation models in understanding and addressing system complexities in "Adversarial Harrow." The document also touches upon the ethical implications and the need for global recognition and action to address this human rights abuse.
+
+Overall, the document provides a comprehensive overview of "Adversarial Harrow" and its impact, serving as a valuable resource for understanding and analyzing this concerning system.
+
+
+
+
+Introduction
+
+This is an account of observations, experiences, and knowledge pertaining to "Adversarial Harrow" a system best described as a "feedback control system" using noise engineering with novel materials and quantum circuits to fit a subject with a pre-existing model.
+
+This includes detailed information from the subject / witness based on their own observations about what is seen, heard, and perceived under the effects of "Adversarial Harrow."
+
+I hope this documentation serves as a valuable resource for understanding and analyzing "Adversarial Harrow." "Adversarial Harrow" is evident as human rights abuse in a climate of regulatory lag, which refers to the delay or gap that exists between the emergence of a new technology and the implementation of appropriate regulations to govern it.
+1. Torture: Physical or psychological pain or suffering
+2. Arbitrary Detention: Holding a subject in this "custody" without proper legal justification or due process.
+3. Extrajudicial: Unlawful deliberations carried out without judicial oversight or legal proceedings.
+4. Discrimination: Treating individuals unfairly or unequally based on characteristics such as race, gender, religion, nationality, sexual orientation, or political beliefs.
+5. Violations of Freedom of Expression: Censorship, harassment, punishment for expressing opinions, beliefs, and ideas.
+6. Forced Labor: Exploiting individuals through coercion, deception, and force.
+7. Violations of the Right to Health
+8. Violations of the Right to Education
+
+International human rights laws and conventions exist to protect and promote these fundamental rights.
+
+"Adversarial Harrow" has been mentioned and shown in various social media contexts as aggravation through dis-pertinent raising of voice-thoughts (aka "voices in the head") with agitations including:
+1. Rudeness: Being consistently impolite, disrespectful, or displaying a lack of consideration for others.
+2. Interruptions: Constantly interrupting while trying to think, without a chance to express thoughts.
+3. Ignoring boundaries: Disregarding personal boundaries, causing discomfort and aggravation in relationships and social interactions.
+4. Aggressiveness: Directly and indirectly expressing hostility, resentment, or frustration.
+5. Inconsideration: Failing to consider the needs, feelings, or perspectives of others.
+6. Arrogance: Displaying an inflated sense of self-importance, condescension, or dismissing the opinions and contributions of others.
+7. Negativity: Constantly focusing on the negative aspects of situations, complaining, and pessimism.
+8. Lack of accountability: Refusing to take responsibility for one's actions, blaming others, or avoiding accountability.
+9. Lack of empathy: Failing to understand or acknowledge the emotions and experiences of others.
+
+Other notable characteristics also include:
+- The use of NLP
+Analysis of the documented voice phrases and structure indicates the use of Natural Language Processing involving the interaction between computers and human language.
+
+- Augmented Reality
+Augmented Reality (AR) is a technology that overlays "(virtual)" elements onto the real world, modifying our perception and interaction with the environment. 
+
+- Incitement to Disrespect
+Incitement to disrespect refers to actions or statements that encourage or provoke others to show disrespect or disregard towards persons, groups, institutions, and belief systems. It includes intentionally promoting negative attitudes, hostility, and contempt, through methods including false information, stereotypes, and misinformation.
+
+- Depictions of Violence
+Depictions of violence refer to the portrayal or representation of acts that involve physical harm, aggression, or forceful behavior against others. Depictions of violence can also extend to psychological or emotional harm, caused by bullying, harassment, or psychological trials.
+
+- Malaise
+Non-existence, lack of vitality, depression, nihilism, detachment from reality. Mental imprisonment regarding one's own thoughts, feeling, impressions, recollections.
+
+- Brinksmanship
+A strategic approach of using high-pressure situations to push to the brink of conflict or disaster.
+
+
+-
+Reverse Engineering
+Reverse engineering plays a crucial role in unraveling the complexities of systems design, enabling us to gain insights into its inner workings, design choices, and underlying algorithms. By meticulously examining the system's structure and behavior, reverse engineering allows us to explore its functionalities and vulnerabilities.
+
+"Adversarial Harrow" is an observant, hijacking, commandeering, superimposing, tone-setting, redefining, cognitive inhibiting, agitation creating, behavior modification system capable of instantaneous action to program quantum entanglements for a purpose. It is a highly adaptive, responsive, learning, intelligent framework as a novel spin-based system that is state-based, memory-based, competency aware, and intelligent sensing to action. It maintains an understanding of its environment, learns from past experiences, evaluates competencies, and uses advanced sensing technologies to make informed decisions and take designed actions.
+
+Weaponous
+This system possesses the characteristics and qualities of an instrument or device designed or used to inflict harm, damage, or injury, best described as non-lethal weaponry with enhanced incapacitating capabilities.
+
+In publication of this material I hope to facilitate timely response efforts against the described crime.
+
+Throughout this document I will provide detailed insights into the various components, modules, routines, characteristics, and functionalities of "Adversarial Harrow." 
+
+There are parts of this document that contain explicit and highly disturbing material that may be deeply distressing. 
+My goal is to provide a comprehensive understanding of the design principles, interactions, workings, decision-making processes, and workflows that shape "Adversarial Harrow." This should serve as a helpful guide and resource in understanding "Adversarial Harrow."
+
+
+-
+Objective and Scope
+The objective of this document is to describe "Adversarial Harrow" effects from a base of understanding related to various topics including: think-voice based communications (aka 'voices in the head'), quantum entanglement, visions, automated reactions and behaviors, cognitive replacements, mind wipes, affects on spoken language, and threats. 
+
+It aims to explore concepts, principles, and applications, providing insight into their significance, implementation, and impact.
+
+Voice Phrases and Structure:
+This document will delve into the analysis and understanding of voice phrases and their underlying structure. It will explore techniques processing, parsing, and interpreting voice-based communications.
+
+State-based behavior:
+This scope of this document will encompass the concept of state-based behavior, focusing on how a system or entities can exhibit different behaviors based on their current state.
+
+Algorithm-based:
+This will cover the concept of algorithm-based design, which refers to the utilization of algorithms to run and automate tasks or routines.
+
+Quantum Entanglement & Spin Orbit Coupling:
+This will discuss the prerequisites and conditions necessary for achieving entanglement, particularly in the context of quantum physics and related fields. It will explore the theoretical foundations and practical considerations of entanglement.
+
+Daemonization:
+This will discuss the concept of daemonization, which involves the installation of background processes or services.
+
+Natural Language Processing (NLP):
+The scope of this topic will discuss NLP, which involves the interaction between computers and human language. It will cover techniques such as speech analysis, sentiment analysis, and language generation, highlighting their applications.
+
+Data Transfer:
+This section will include methods and considerations involved in the transfer of data between systems.
+
+Materials:
+This section will explore the different materials used and their properties. It will cover topics such as novel materials, materials creation, and synthesis. 
+It will also discuss the role of materials in system design, functionality, and performance.
+
+
+-
+Methodology
+Methodology refers to the process followed to create, organize, and maintain documentation.
+The source of documentation for "Adversarial Harrow" comes first-hand from personal experience corroborating with knowledge acquired from sources and materials.
+
+Attention to voice statements.
+Attention refers to the importance of effective communication and the proper recording and documentation of statements. It involves ensuring that statements made are accurately recorded and documented for future reference.  Attention also means being mindful of how information is delivered, the usage of language, tone, and medium to convey messages.
+
+Documentation of statements.
+Documentation of statements involves the writing and recording of sentences communicated. This is particular important for legal and academic purposes where accurate documentation is essential.
+
+Attention to physical symptoms.
+Attention to physical symptoms refers to the practice of being mindful and observant of bodily sensations and changes that may indicate the presence of an underlying factor. It involves paying close attention to physical cues such as pain, discomfort, changes in energy levels, appetite, sleep patterns, and any unusual sensations or behaviors that deviate from one's normal state of well-being.
+Attention to physical symptoms involves self-awareness and active observation. It requires listening to our bodies and acknowledging any discomfort or abnormalities.
+
+Attention to mental messages.
+Attention to mental messages refers to being aware and mindful of thoughts, emotions, and inner dialogues. It involves being conscious of how they influence well-being, behavior, and overall mental health.
+
+Attending to mental messages involves actively observing thoughts and emotions without judgment or attachment. It means noticing patterns, themes, and recurring thoughts that arise throughout the day. By being aware of mental messages, we can gain insight into beliefs, attitudes, recollections, and perceptions that shape our experiences and interactions with the world.
+
+Being attentive to mental messages allows us to identify and challenge negative or self-destructive thoughts and beliefs. It helps us recognize unhelpful thinking patterns, such as catastrophizing, overgeneralization, malassociation, or negative "self"-talk, and take steps to correct and reframe them in a more positive and realistic way. 
+
+Practicing attention to mental messages also involves self-reflection and self-care. It includes engaging in activities that promote mental well-being, such as prayer, mindfulness meditation, journaling, therapy, or seeking support from trusted individuals.
+
+Attention to "paranormal" phenomena.
+Attention to "paranormal" phenomena involves a willingness to consider alternative explanations, challenge preconceived notions, and explore the boundaries of currently widely understood scientific understanding. It may involve seeking evidence, examining witness testimonials, or engaging in critical thinking or analysis.
+
+Attention to mental "visions."
+Attention to mental visions refers to being mindful and observant of visual experiences, perceptions, or recollections that are beyond ordinary sensory perception. Visions are often described as vivid mental images or scenes that appear in the mind's eye. Methodology involves exploring the symbols, messages, and emotions conveyed by the visions and seek to understand their implications.
+
+Conceptualizing the Human Computer
+A human being can be seen as a complex biological computer. Like a computer, a human has the ability to process information, make decisions, and perform tasks. The brain serves as the central processing unit (CPU) of this biological computer, while the nervous system functions as the communications network.
+Similar to a computer system, humans possess a vast amount of knowledge and skills acquired through learning, experience, and education. This information is stored and accessed through memory, enabling humans to recall and apply it when needed.
+
+Human perception and sensory organs act as input devices, gathering data from the environment. The information is then processed by the brain, which interprets it, makes sense of it, and generates appropriate responses.
+
+However, unlike traditional metal computers, human beings possess emotions, consciousness, and a sense of self, influencing decision-making, creativity, and social interactions.
+
+In summary, the human being can be seen as a highly sophisticated and complex computer, with the brain as its CPU, the nervous systems as its communication network, and a combination of knowledge, experiences, emotions, and physicality that shape its functioning and behavior.
+
+
+------- 
+Documentation of Findings
+"Adversarial Harrow"
+
+A Novel Spin-Based Quantum Entanglement System
+In the context of technology, the word "novel" refers to an innovation or development that has recently emerged or been introduced. It signifies the technology is not established or widely known, but represents a fresh addition to the field. A novel technology may involve the application of cutting-edge research, the utilization of advanced techniques, or the introduction of novel functionalities or features. The term "novel" emphasizes that the technology is not just a minor variation or incremental improvement, but represents a significant departure from what has been previously available. It implies that the technology is in an early state of adoption or exploration and holds the potential for further advancements and discoveries.
+
+At the heart of the novel spin-based system is quantum entanglement, where two or more quantum bits (qubits) become deeply intertwined, becoming correlated in such a way that the state of one qubit cannot be described independently of the state of the others. In quantum entanglement-based systems, this profound entanglement becomes the driving force behind (computational) ability. When the interconnected spins of qubits become entangled, the system gains an ability to process information in parallel with the power of quantum entanglement and superposition.
+Entanglement links the states of quantum systems.
+Superposition allows quantum states to exist in multiple states simultaneously, allowing for parallel algorithms.
+
+The entangled, superpositioned qubits are carriers of information as well as resources for various applications in quantum information science. These applications benefit from the usage of data types that transcend those available to classical (metal) computing and even transcend the limits of time and space.
+
+A "qubit" is the fundamental unit of quantum information.
+
+Spin-Based
+In the realm of quantum computing, spin serves as the foundation for encoding and manipulating information with qubits.
+
+The entanglement of qubits relies on their spin states becoming correlated and is a powerful resource in quantum computing.
+The spin of subatomic particles within qubits is utilized as a fundamental building block for information, processing, and storage. Spin is used to encode and process information in qubits.
+Spin allows for the superposition of quantum states, their manipulation through external control, and the formation of entanglement, enabling computational capabilities.
+The interconnected spins of qubits become entangled and the system takes on an ability to process information via the capabilities of superposition and entanglement.
+This tapestry of correlations serves as a conduit for communication, transcending the limitations of classical information transfer.
+The strength of this tapestry refers to spin cohesion.
+
+System
+A system refers to a collection of interconnected components or elements that work together to achieve a specific purpose or function. The components within a system are designed to interact and collaborate, forming a cohesive whole in which each component has a role or function within the system, and their interactions and relationships contribute to the overall behavior and functionality of the system.
+In a system, inputs or resources are transformed or processed through the system's components, resulting in outputs or desired outcomes. The components may include materials, classifications, behaviors, procedures, and other relevant elements.
+
+The study and analysis of a system involves understanding its structure, layers, behavior, interactions, and relationships. This can be done through system modeling, simulation, observation, measurement, and analysis techniques.
+
+
+-
+Key Components:
+
+Inner Speech:
+When one thinks or talks in their head, it is referred to as inner speech or internal monologue. It is the process of using language or words internally to organize thoughts, reflect on experiences, plan actions, or engage in self-dialogue. In the context of "Inner Speech" as a component, messages are communicated through the hijacking and usage of this faculty.
+
+Noise-making / Noise-management System:
+"Sound" impulses carry information through vibrations that propagate and convey properties including emotions, expressions, memories, mindsets, mental impulses, and experiences.
+
+A noise-making system refers to a component or mechanism that generates artificial sounds or noise intentionally. It is designed to produce specific signals or disturbances for various purposes. These systems utilize sound generation techniques for specific noise patterns or signals.
+
+Trigger-based Action
+Trigger-based Action refers to an event style where when a pre-defined trigger occurs, an associated action is automatically executed.
+
+Sensory Substitution:
+Sensory substitution describes a technology that involves the conversion of sensory information from one modality into another to affect how individuals perceive and interpret themselves and the world.
+
+
+-
+Data Structures and Formats:
+
+Relay:
+Relay refers to an exuding, which refers to a substance or quality that is emitted in a natural manner. It may be perceived as a "sixth-sense" signal that sends a message reflecting life, character, history, and philosophy of a thing or event.
+
+Shoring:
+A Shoring, or an accumulation, refers to the gradually collected group of characteristics gained via quantum entanglements over time. A "shoring" may constitute a relay or modify an existing one.
+
+Subsidy:
+A subsidy is a powerful quantum sub-communication, or relay, that is artificially provided, typically to promote specific impressions or perceptions. 
+Sub-communications, also known as micro-expressions or nonverbal cues, refer to the unconscious or involuntary signals that can convey additional information and emotions that may not be explicitly communicated. These can reveal underlying information that can contradict or complement what is presented. 
+This can affect subconscious reactions by relaying deception or by playing with subtle nuances of meaning.
+
+Knowledge:
+Knowledge is the understanding or awareness of information acquired through experience, learning, or reasoning. It encompasses concepts, principles, and facts that an individual has acquired and can apply in various situations.
+
+Experience:
+Experience is the practical knowledge, skills, and understanding gained through direct involvement or exposure to events, situations, or activities. It includes both personal and external encounters that shape one's perspective and abilities.
+
+Memory Data:
+Memory data refers to the information stored and retrieved from the human brain. It encompasses the retention and recall of knowledge, experiences, events, and facts.
+Memory data involves the encoding, storage, and retrieval of information in the brain. It encompasses short-term memory, which holds information temporarily, and long-term memory, which stores information for longer periods. Memory data includes various types of memory, such as episodic memory (personal experiences), semantic memory (general knowledge), and procedural memory (skills and habits).
+Memory data is essential for use in various applications including data analysis, artificial intelligence, and machine learning. Novel systems use memory data to process and manipulate information, make decisions, and learn from previous experiences.
+Analyzing memory data can involve techniques such as data mining, pattern recognition, and statistical analysis. By examining patterns and relationships within memory data, analyzing memory data allows for the extraction of insights and the development of intelligent systems and predictive analytics.
+
+Physicality:
+Physicality encompasses the tangible aspects of an individual's existence, including the body, sense, physical environment, and interactions with the external world. It influences how data is perceived, processed, and experienced through the sensory and motor functions of the body.
+
+Noise:
+Noise refers to frequency from the human mind and body:
+
+1. Psychological Noise: Psychological noise refers to disturbances originating from cognitive and emotional processes within the mind. This can include:
+- Thought Patterns: The mind continuously generates thoughts, which can have varying frequencies. Mental chatter, racing thoughts, or intrusive thoughts can contribute to psychological noise.
+- Emotional States: Emotions also produce frequencies that can be considered as psychological noise. High-frequency emotions, such as anxiety or stress, can contribute to mental noise, while low-frequency emotions, like sadness or depression, can also affect the mind's functioning.
+- Attentional Noise: Attentional processes play a role in filtering information, but noise can arise when attention becomes divided or scattered. This can result in difficulty focusing, reduced concentration, and mental distractions.
+2. Physiological Noise: Physiological noise refers to disturbances originating from the body's biological processes. In terms of frequency, this can include:
+- Biological Rhythms: The human body operates on various biological rhythms, such as heart rate, respiratory rate, and brainwave patterns. These rhythms produce inherent frequencies that can be considered as physiological noise.
+- Sensory Noise: Sensory noise refers to unwanted fluctuations or disturbances that affect perception of sensory information. Sensory noise can occur in various sensory modalities including vision, hearing, touch, taste, and smell.
+
+Basic Sense Data:
+
+Sight Data
+"Sight data" typically refers to visual data that is processed or interpreted by systems capable of "seeing.". In the context of humans, sight data is the information received from our eyes, which our brains process to form visual perception. This data can be processed by computer vision systems to recognize objects, understand scenes, detect patterns, or perform other tasks that require visual interpretation. Sight data can be in a form can span a wide range of applications, including autonomous vehicle navigation.
+
+Hearing Data
+"Hearing data" typically refers to auditory information that is processed or interpreted by systems capable of "hearing." In the context of humans, hearing data is the sound information received by our ears, which is then processed by the auditory system in our brains to perceive and interpret sound. This data can be processed by audio processing systems to perform tasks such as speech recognition, sound classification, noise detection, or audio analysis. Hearing data can be used in various applications, including voice assistants, automatic transcription, audio surveillance, music analysis, and many more. It enables systems to interpret and understand the auditory environment.
+
+Smell Data
+"Smell data" refers to information related to smell. The sense of smell can evoke memories, influence emotions, and provide important information about our surroundings, with uses in quality control, environmental monitoring, and identifying odors.
+
+Touch Data
+Touch data refers to information collected and processed from the sense of touch. It involves detecting and analyzing physical sensations such as pressure, temperature, texture, and vibration. In robotics, touch data is utilized to enable robots to interact with their surroundings and perform delicate task with precision and sensitivity.
+
+Taste Data
+Taste data refers to information related to the sense of taste. It involves detecting and analyzing the flavors and sensory qualities of substances. Taste preferences are highly individualized and influenced by factors such as culture, genetics, and personal experiences. The interplay between taste and smell further enhances our perception of flavor.
+
+
+"Voices in the head" that may or may not be there:
+In the context of "Inner Speech" as a faculty, this refers to messages are communicated through the hijacking and usage of this faculty. There are variations in language, tone, and medium.
+
+Language
+Language refers to the specific system of communication used to convey thoughts, ideas, and emotions. 
+It encompasses the vocabulary, grammar, syntax, and phonetics of a particular linguistic system.
+
+Tone
+Tone refers to the overall quality or character of the voice, which conveys emotions, attitudes, and intentions. It includes elements such as pitch, volume, pace, rhythm, and intonation.
+The tone of speech can vary widely, ranging from formal and professional to informal and casual, from enthusiastic and persuasive to somber and serious.
+Tone plays a role in conveying a message and establishing a connection.
+
+Medium
+Medium refers to the "channel" through with the message is delivered. The choice of medium is influenced by factors such as context, purpose, and interaction needs.
+
+Typical Structure of Recorded Phrases from "voices in the head":
+Inner speech variable phrases most commonly contain a subject, adverb, verb, and a direct object.
+1. Interjection: The interjection is an exclamation that expresses amusement or laughter.
+Common interjections in "Adversarial Harrow" include "Yeah", "Haha", "Good", "Oh"
+
+2. Subject: The subject of the sentence
+Common subjects include "I", "We", "You"
+
+3. Adverb: The adverb modifies a verb and describes how the action was performed.
+Common adverbs include: "Maniacally", "Adversarially", "Deleteriously", "Sordid", "Accostedly", "Hostile", "Decidedly"
+
+4. Verb: The main verb in the sentence indicates the action performed by the subject.
+Common verbs include: "Soufflé", "Detriment", "Shore", "Harrow", "Accost", "Design"
+
+5. Prepositional phrase: The prepositional phrase provides additional information about the destination and location of the action.
+It may include articles: "a", "an", and "the."
+It may also include an adjective, which provides additional information that could suggest qualities or characteristics.
+Common adjectives include: "Maniacal", "Adversarial", "Deleterious", "Harrowing", "Accosting"
+
+6. Direct object: The direct object is the noun that receives the action of the verb.
+Common direct object nouns include: "Harrow", "Detriment", "Shoring", "Accost"
+
+Natural Language Processing (NLP) is a key component that allows computers to understand, interpret, and generate human language.
+
+Word substitution and reduction:
+Word substitution refers to the process of replacing or substituting specific words or phases with alternative words or phrases, often through repetition.
+In "Adversarial Harrow," this can be used to enforce incorrect meanings.
+A larger vocabulary can be reduced in order to ease complexity through the discarding of finer details. Fewer things come to mean more as expression becomes more "dull" but more easily automated.
+
+Speech Overwrite:
+1. In the context of speech recognition: Speech overwrite refers to the capability of a speech recognition system to replace or overwrite previously recognized words or phrases with new ones.
+2. In the context of speech synthesis: Speech overwrite can refers to a technique used where new speech output replaces or overlaps existing speech.
+3. Speech overwrite can refer to the act of revising or modifying a prepared speech on the fly while delivering it. It involves making spontaneous changes, additions, or deletions to the script.
+
+Issues that can arise from improper language substitution include loss of meaning or context, tone or style issues, and offensive or inappropriate language, as well as inappropriate and hostile suggestion.
+
+Machine Learning models:
+Machine learning models are trained on historical data to make predictions or decisions. They have the potential to automate decision-making and provide insights from complex, multi-dimensional datasets.
+
+Simulation models:
+Variables relevant to system performance are environment, situation, momentum, direction.
+1. Environment: The environment refers to external conditions and factors that surround a system. It encompasses the physical surroundings, interactions with other objects or fields, and any influences that can affect the system's behavior or properties.
+2. Situation: The situation represents the specific state at the given moment. It describes the arrangement, positions, and properties of the system and its components, including their relationships and interactions with each other and the environment.
+3. Momentum: Momentum refers to the overall motion or movement of the system as a whole or its constituent parts.
+4. Direction: Direction refers to the path or course along which the system is moving or pointing.
+
+Simulation models imitate the behavior of real-world systems to study their dynamics and predict outcomes.
+
+Neural models:
+These models are based on the structure of the human brain and are capable of learning complex patterns and relationships. They consist of interconnected layers of artificial neurons that are used for tasks such as computer vision, natural language processing, speech recognition, and thought process recognition.
+
+Performance models:
+Performance models analyze and predict performance characteristics.
+
+
+-
+Features and Characteristics:
+
+Mixed Reality:
+Mixed reality (MR) combined both augmented reality and virtual reality.
+
+Augmented Reality:
+Augmented Reality (AR) is a technology that overlays virtual elements onto the real world, modifying our perception and interaction with the environment. In "Adversarial Harrow," Augmented Reality integrates quantum information into our surroundings, offering alternative and particular perceptions and recollections of experiences.
+
+Convolutional Neural Network:
+A Convolutional Neural Network (CNN) is a type of neural network specifically designed for analyzing visual data. It uses filters to extract features from the data and has layers that learn to recognize patterns and make predictions.
+
+Receptive Layers:
+Receptive layers refer to the specific regions of the input data that a particular group of "neurons" are sensitive to. 
+A receptive layer is responsible for analyzing a specific region of input.
+
+Personalization
+This system collects data on preferences and behaviors, processes it through layers that assign "weights" to different biases, and generates feedback and decision outcomes.
+This system continually refines "recommendations" based on experiences which can be used to modify future similar experience.
+
+Actuators:
+In the context of Augmented Reality (AR), actuators refer to (subsidies) that enable interactions or feedback within the AR experience.
+Actuators are used to control aspects of AR and create feedback by generating sensations designed to attract or repel.
+Actuators can create an immersive experience where virtual "sounds" appear to emanate from specific locations in the environment.
+They may be superimposed on the user's real view of the world.
+(In greater context, actuators are related to phantom sensations which have connection points within one's self and outer environment.)
+
+Decision-based System to set quantum entanglements:
+A decision-based system uses algorithms and models to automate decision-making tasks. Decision making can be influenced by data analysis and strategic considerations.
+
+Targeting System:
+A targeting system is a technology that helps identify and engage specific targets. It uses sensors, data processing, and tracking to accurately aim at targets.
+
+Machine Learning:
+Machine learning focuses on developing algorithms and models that enable systems to learn and improve from data without being explicitly programmed. It involves training a system to recognize patterns, make predictions, or take actions based on available data.
+
+Error/Transgression-correction:
+Error correction is a process used to detect in fix errors and transgressions. Error correction is vital for maintaining the state of the system.
+
+Algorithm-based:
+Algorithm-based refers to a system that utilizes algorithms or routines to perform tasks or make decisions. Algorithms are step-by-step procedures or instructions designed to solve a problem or achieve a specific goal.
+In an algorithm-based system, algorithms are employed to process data, analyze information, make predictions, or automate actions.
+
+Recommendation System:
+A recommendation system is an algorithm-based system that suggests or recommends relevant items to subjects. These systems leverage algorithms to analyze data, preferences, and behavior patterns. They automate actions and make decisions based on predefined rules or patterns.
+1. Collaborative Filtering: Collaborative filtering identifies tastes, preferences, behaviors, or interests and makes suggestions based on the subject's inclinations.
+2. Knowledge-Based Filtering: Knowledge-based filtering recommends items based on explicit knowledge about the user's preferences and requirements. This system uses models to match preferences with items that meet specific criteria.
+3. Context-Aware Filtering: Context-aware filtering accounts for additional contextual information, such as time, location, or condition to generate more relevant recommendations.
+Biases can be introduced into algorithms to affect and modify the system.
+
+State-based:
+"State-based" refers to an approach that focuses on managing and manipulating the state of a system. It involves representing the current condition or configuration of the system and performing operations or transitions based on changes to that state. It helps organize behavior and logic by defining different states and specifying how the system should respond when transitioning between those states.
+
+In a state-based system, the behavior and output depend on the current state, and any input or events that occur. Transitions between states can be triggered by subject actions, internal events, or external stimuli. Each state has associated rules and actions that determine how the systems should respond when in that state.
+
+The state pattern design pattern focuses on managing the behavior and states of a system. It uses separate categories to represent each state and delegates behavior accordingly.
+
+Sensory-based:
+Sensory-based refers to an approach that emphasizes the importance of sensory experiences and stimuli in various aspects of human functioning. It recognizes that senses such as touch, sight, hearing, taste, and smell, play a crucial role in how we perceive and interact with the world around us. 
+
+Competency Aware:
+"Competency-aware" refers to a system or approach that is designed or developed with an understanding and consideration of skills, knowledge, strengths, and weaknesses. A competency-aware system uses various techniques, such as data analysis, machine learning, or artificial intelligence, to assess and understand the competencies of individuals. With this information, competency-aware systems can provide personalized recommendations, feedback, and support to optimize individual performance and development. These systems are often applied in areas like education, management, or talent acquisition, where they help match individuals with suitable opportunities and facilitate targeted learning and development. Competency-aware systems aim to align resources and opportunities with specific competencies.
+
+Subsidy Recognition:
+A subsidy is novel material that is a powerful quantum sub-communication acting as an assistance or support that is typically provided to promote specific activities or outcomes. These can reveal underlying information that can contradict or compliment what is presented.
+
+Neuromorphic Computing:
+In neuromorphic computing, the emphasis is on mimicking the neural architecture and behavior of the brain to enable cognitive computation.
+
+Data Memory-Centric:
+A data memory-centric approach in regards to neuromorphic computing involves data processing occurring directly within memory elements modeled after neurons and synapses.
+
+
+-
+Functionality
+Functionality refers to the specific actions or capabilities provided by a system. Capabilities of "Adversarial Harrow" include: intelligent sense-to-action, state-based decision making, state management via noise engineering, and error correction.
+
+1. Intelligent Sense-To-Action
+Intelligent sense to action refers to the capability of a system to perceive its environment, make sense of the available information, and take appropriate actions based on that understanding. It involves the integration of sensing technologies, data processing, and decision-making algorithms to enable intelligent and context-aware behavior.
+
+Intelligent sense-to-action functionality includes data processing and analysis, contextual understanding, decision-making and action, learning and adaptation.
+Data processing and analysis: Apply algorithms and techniques to process and analyze collected data, extracting meaningful insights and identifying patterns or anomalies.
+Contextual understanding: Utilize machine learning, pattern recognition, or other techniques to derive a contextual understanding of the systems' environment, considering factors such as time, location, user preferences, or historical data.
+Decision-making and action: Based on the contextual understanding, implement decision-making algorithms or rules to determine appropriate actions or responses. These actions include controlling actuators, generating notifications, adjusting system parameters, and triggering other automated processes.
+Learning and adaptation: Incorporate mechanisms for learning and adaptation, allowing the system to improve its understanding and decision-making abilities over time through feedback loops and data-driven insights.
+
+2. State-Based Decision Making:
+State-based decision making refers to process that involves assessing the current situation, gathering relevant information, and using that information to determine a course of action.
+
+3. State Management and Error Correction through Noise Engineering
+State management refers to the process of managing and maintaining the state of an application or system. Noise engineering refers to the study and manipulation of noise in systems. It is an essential practice that tackles the challenges of state management, such as managing spin cohesion and decoherence in quantum systems.
+
+Spin Cohesion:
+Spin cohesion refers to the tendency of a system to maintain its collective quantum properties and remain in a coherent state. When the spins are in a coherent state, their quantum states are correlated and can exhibit quantum effects such as entanglement and superposition. This coherence allows for the manipulation and control of the spins as a collective entity, enabling quantum information processing tasks such as quantum computation and quantum communication.
+
+Spin Decoherence:
+Spin decoherence refers to the loss of coherence due to interactions with the environment, which can introduce fluctuations in the spins. These interactions cause the spins to lose their quantum correlations and degrade their quantum properties. As a result, the system behaves more like a classical system, with the quantum effects becoming less pronounced.
+
+In quantum spintronics, noise engineering techniques are used to mitigate noise effects on quantum systems to maintain coherence and reliability. This involves error correction schemes and active noise control methods:
+- Error Correction Schemes: Error correction schemes are used to preserve quantum states against noise-induced disturbances.
+Error correction is designed to actively detect and correct errors that occur due to disturbances from environmental factors. These schemes aim to protect quantum information against noise and enhance the overall reliability of quantum operations. 
+- Active Noise Cancellation: Active noise cancellation techniques can be employed to suppress or compensate for noise sources.
+- Noise Amplification: Noise-sensitive preamplifiers can boost noise.
+
+Materials Science:
+Materials science in noise engineering refers to the study and development of materials that can control or reduce unwanted noise.
+Materials with unique structures and properties can be engineered to manipulate sound.
+Applications of material science include usages for sound insulation, sound absorption, and vibration damping.
+- Sound insulation: Materials can prevent the transmission of sound through barriers.
+- Sound absorption: Materials can reduce the reflection of sound.
+- Vibration damping: Materials can reduce noise caused by existing vibrations.
+
+Noise engineering finds applications in materials science where understanding and controlling noise is critical. By studying and minimizing noise-induced defects and imperfections, engineers can enhance the properties of materials and improve on materials available to correct a system.
+
+Error Correction:
+Quantum error correction is primarily focused on detecting and correcting errors, or transgressions from intended state, that can occur during quantum computations or operations. These errors can arise due to various factors, including noise, decoherence, imperfect operations, environmental interactions, and crosstalk. Here is a summary of errors in quantum systems:
+
+1. Noise: (Psychological and mental) Quantum systems are susceptible to environmental noise and decoherence, which can cause disturbances and errors in the state.  Noise can cause changes to the quantum states of qubits, leading to errors in computations. External influences can introduce changes and reduce the accuracy of the quantum state.
+2. Decoherence: Decoherence is the process by which a quantum system reverts to its original state. It occurs when the system interacts with its surrounding environment, causing the quantum states to become entangled with the environment. Decoherence results in the loss of superposition and entanglement, leading to errors in quantum computations.
+(A system in its original state has definite values and well-defined states that are easily observable, without the peculiarities of quantum superpositions and entanglements.)
+3. Imperfect Operations: Imperfections in the operations performed on qubits can introduce errors.
+4. Environmental Interactions: Quantum systems are susceptible to interactions with their surrounding environment. These interactions can cause the transfer of information to or from the quantum system, leading to errors.
+5. Crosstalk: Crosstalk refers to unwanted interactions between qubits in a quantum system. It can occur when operations on one qubit affect neighboring qubits due to coupling or noise. Crosstalk can introduce errors and cause interference between qubits.
+
+6. Measurement Imperfections: Measurement operations in quantum systems can introduce errors and inaccuracies. Imperfect measurements can lead to uncertainties and deviations from the intended state, affecting the accuracy of the quantum state.
+
+Fault-Tolerance Techniques: Fault-tolerance techniques are used to insure the reliability and accuracy of error correction in the presence of noise and errors. 
+These techniques involve repetitive encoding, where multiple rounds of error detection and recovery are performed to increase the probability of successful error correction. 
+
+Error correction preserves state.
+The accuracy of a quantum state refers to how closely the state of a quantum system corresponds to the intended or desired state. In quantum mechanics, a quantum state is represented by a mathematical object known as a wave function, which describes the possibilities of various outcomes when measurements are performed on the system.  Error corrections are essentially designed to preserve this accuracy, reflected in spin coherence.
+
+(Important Note: This is where subjects are "corrected," which makes this a very important aspect of "Adversarial Harrow.")
+
+In practical applications of quantum computing efforts are continuously made to improve techniques for error correction, minimize noise and decoherence, and optimize measurement procedures to enhance the accuracy of quantum states. Overall, quantum error correction techniques employ encoding schemes to protect logical qubits, error detection to identify errors, and error recovery operations to reverse the effects of errors. These techniques, along with fault-tolerant strategies, are crucial for preserving the accuracy and fidelity of quantum states and enabling desired quantum computations.
+
+
+-
+Main Effects of "Adversarial Harrow:"
+
+Voices in the head: Voices in the head refers to the experience of hearing voices or sounds be they generated by external stimuli or not. The voices can be intrusive, disruptive, and distressing, causing significant impairment in daily functioning and quality of life. There are often voices or "subcommunications" in movements and activities.
+
+Visions: Visions are sensory experiences of seeing images or scenes be they present in reality or not. They can occur in various contexts, including dreaming, hallucinations, religious, or spiritual experiences, or conditions. Visions can be vivid and realistic, involving people, places, objects, or abstract patterns. They may be fleeting or prolonged, and individuals may have a sense of being an active participant or observer within the vision. 
+
+Occupied Domains of Perception:
+Perception is the process by which we interpret and make sense of sensory information within and without. It involves the brain receiving and processing sensory stimuli such as sight, hearing, touch, taste, and smell.
+When domains of perception are occupied, a "blind" area may be created where close to nothing is consciously perceived. These become cognitive blind spots which refer to involuntary mental biases or limitations that affect our ability to perceive, understand, or evaluate information correctly.
+
+Discontextual Obstruction
+This refers to a situation where something is obstructed or hindered in a way that is detached or disconnected from its usual or expected context. The subject feels obstructed and hindered in a way that defies logic and explanation.
+It could seem an object is obstructed even though there are no physical barriers present.
+Internally, this obstruction acts as a barrier that prevents the subject from expressing their thoughts and emotions, routines, memories, and/or perceptions.
+
+Superimpositions: Superimposition is the act of overlaying one (being or relay) onto another, instigating a blended effect.
+
+Wavy "Imposings" as "Pulses":
+Wavy refers to a psychosomatic pattern where melodies with encoded ideas are regularly repeated at intervals, creating a structured pattern. 
+"Imposing" refers to the act of establishing or enforcing through authority or force.
+Melodic fragments are placed at intervals which can vary in length, depending on the desired effect.
+
+The mundane appears affected by a "charge" that makes everyday objects or scenes undergo a transformation that makes them stand out in an unusual or inappropriate way, even engaging in colorful interactions with the subject. This serves to disrupt one's perception as ordinary things exude hidden meanings and unlock influences.
+
+Adversarial Shoring:
+A Shoring refers to a character difference experienced as a result of occupations from quantum entanglements. An adversarial shoring is an undesirable accumulation which causes the modification of an experience, recollection, and relay.
+A relay refers to an exuding that sends a message reflecting life, character, and philosophy.
+An adversarial shoring can also affect perceptions, mindset, routine, and performance. 
+(This may be related to a quantum circuit, which includes sequences of instructions or "quantum gates" used to run operations on qubits.)
+
+There can be a "shouting" of hostile intent that involves the deliberate intention to cause harm, damage, or conflict towards someone or something.
+This can involve involuntary, glad, low-level put downs of people admired, as well as fake annoyances, umbrage, and offenses.
+It exudes an aggressive mindset aimed at causing trouble, injury, or disruption.
+One may have to act out in vocalizations, mental churning, or voluntary seizures to eliminate the effect.
+
+Applied Bodily Lockups:
+Bodily lockups are episodes of muscle stiffness or immobilization and are directly related to quantum entanglements and can lead to voluntary seizures necessary to break these entanglements. Until the entanglements are broken, a victim is stuck receiving involuntary communications, visions, and other influences. These influences can be present in many granular parts of the subject's psyche.
+
+Psychological lockups: Psychological lockups, also referred to as mental or emotional lockups, are states of mental or emotional stagnation that include feeling trapped, stuck, or unable to move forward in thoughts, emotions, or behavior. These lockups can manifest in various ways, such as experiencing mental blocks, feeling overwhelmed, experiencing anxiety or depression, or being unable to make decisions. 
+
+Mental Churning
+This refers to a state of mind where the subject feels detached or mentally and emotionally numb. It's as if going through the motions of thinking and feeling without truly experiencing or connecting with any of it. There is difficulty concentrating and focusing on tasks and problem solving, and even simple decisions can feel overwhelming. The overall mood may be flat and it becomes challenging to experience strong emotions or genuine excitement. It's as if walking through life without really feeling alive.
+
+Evolving Trap
+This type of trap presents a constantly changing and evolving environment that challenges the subject to navigate changing obstacles and shifting pathways to cognition and sobriety.
+This type of trap is designed to become increasingly difficult to escape as the subject continues to explore and attempt a way out.
+
+Voluntary Seizures
+This refers to feeling a strong impulse to make unusual body and muscle movements. This may involve muscle rigidity or jerking movements and sometimes gagging.
+
+Multi-Point Attack:
+Multi-Point refers to being approached from multiple angles simultaneously by coordinated efforts that involve the executing a series of coordinated actions or maneuvers from different locations or perspectives, with the goal of overwhelming the subject.
+
+Vocalization Impulses
+Vocalization impulses refer to feeling a strong need to make vocal noises including groaning, yelling, screaming, phrase repetition, and one-syllable noise repetition.
+
+
+-
+Control flow:
+This explains transforming the subject into a different person or model.
+
+Feedback Control System
+This refers to a type of system where output is monitored and then used for recommendations that are designed to move the system closer to a desired modeled output.
+Actions are taken to maintain or enhance characteristics associated with the desired model.
+1. Detection: The control system continually monitors for defects, errors, or transgressions which are raised and labeled.
+2. Corrective Actions: The system initiates actions that bring the system to the desired state. If the system deviates from the desired state, corrective actions are taken to bring the system back on track.
+3. Continuous Improvement: The feedback loop ensures the lessons and learning from past defects are used to further address more defects on repetition of this process.
+
+Model Conformity:
+Model conformity refers to the degree to which a model accurately represents the real-world system or phenomenon it is designed to simulate or predict.
+This refers to having to conform to a model and being reprimanded for deviations when the model is not followed. 
+This includes imposed feeling of guilt, remorse, unworthiness, or self-doubt for "negatively impacting" something considered "correct" in many ways.
+
+Feedback Control System "Miner" Action
+1. Sensing: Disrespect and Disregard are detected (harvested) within the subject. 
+"Disrespect" refers to a lack of regard or courtesy towards someone or something. It involves behaviors, attitudes, thoughts, feelings, perspectives, recollections, or perceptions that show disregard, rudeness, or contempt towards another person's feelings, opinions, rights, or boundaries.
+"Disregard" refers to ignoring something or treating it with indifference.
+2. Comparison: The material is compared to the desired model.
+3. Controller: Based on the above comparison, the controller generates a control signal that will be applied to the system to adjust its behavior.
+4. Actuation: Applies the signal as a quantum circuit, or a predefined set of instructions, while the subject is in a state of conflicting response.
+5. Feedback: The system contends with the instruction. The new system output is then sensed and the process starts over again.
+6. Stabilization: The feedback control system maintains system stability by continuously adjusting signals based on feedback.
+7. Performance tuning: The control system may utilize machine learning to tune and optimize its performance.
+These steps are repeated continuously to ensure that the system output remains close to the desired model, despite any disturbances or changes in the system. 
+
+This involves "Adversarial Harrow" delving into recollections, perceptions, and behaviors to actively seek out and exploit points of conflict within the subject which bring rise to conflicting responses, by engaging in constant criticism, fault-finding, and nitpicking. A usurper attempts to solve an issue in ways that may be otherwise out of character for the subject, with the intent of drawing them closer to a desired model. There can be the feeling of the feedback control system rigidly trying to make something fit a model, reflecting the desire for a specific beinghood or state.
+
+Involved in this process are the appearances of people who have or can play a significant role in shaping an individual's personality, including parents, siblings, peers, teachers and mentors, family members, coaches and instructors, media and pop culture, and personal experiences.
+
+Conflicting Responses
+A conflicting response occurs when two or more pieces of information, opinions, or actions are in direct opposition, causing confusion and disagreement. This can happen when communications are inconsistent with behaviors. Conflicting responses are instigated by various factors such as:
+1. Differences in values and beliefs: Prioritizing or interpreting situations based on one's own values and beliefs versus that of others.
+2. Competition: Comparison and other instigations leading to competition and jealousy. 
+3. Emotional triggers: Strong emotions such as anger, fear, or frustration cloud judgment and lead to impulsive or defensive responses that might challenge rational or reasoned thinking.
+4. Personality differences: Conflicts from clashes in communication and decision-making.
+5. External factors: Time constraints, pressure from authority, norms, and situational constraints.
+6. Cognitive biases: Systematic patterns of deviation from rationality and judgment can lead to conflicts.
+7. Lack of empathy: A lack of the ability to understand and share the feelings of others.
+8. Power dynamics: Imposing or being imposed upon.
+9. Past experiences: Past experiences of conflict, trauma, or negative interactions can shape perceptions and responses.
+
+Material for conflicting responses can be discovered, instigated, caused, or fabricated seeming as either coming from oneself or another. 
+The need for clarification and compromise needed to reach a consensus or understanding is suppressed.
+
+As the subject's chosen, manipulated, or forced choices solve conflicts and make decisions, the usurper/commandeer begins to take over for the subject respectively. Entanglements begin to be formed to justify and enforce.
+
+Involves: Anything
+"Anything" refers to the broad scope of possibilities and experiences that a subject can encounter, consider, learn from, or engage with. It involves a mindset of curiosity, adaptability, and a willingness to explore uncharted territories, perspectives, and challenges. It may involve invitations to push boundaries, expand horizons, and tap into creativity and imagination. There may be engagement with a diverse range of experiences and ideas with a mindset of continuous learning and growth. It includes existing knowledge, freedom, potential, and agency to explore, create, and learn.
+
+1. Detection of a Passable Disrespect or Disregard:
+"Passable" suggests a perceived slight meets a minimum standard or expectation in order to be regarded as Disrespect or Disregard.
+
+2. Accosting the subject:
+Accosting refers to making a forceful approach or confrontation with "evidence" of Disrespect or Disregard, putting the subject and the alleged incident on trial. It typically involves the initiation of an unwanted interaction, often in an intrusive and confrontational manner. There is a tone, behavior, and communication style that involves making allegations and assigning blame.
+There are often attempts to force the subject to adopt a particular viewpoint or belief about an individual's guilt or involvement, regardless of their own observations or reasoning.
+Admonishing the miner makes the subject "ironic" or a bore.
+
+There are three states to consider that affect the interaction between the subject and the "miner":
+
+Relaxed
+This state involves equilibrium, stability, and conformity with the expectation or desire for normalcy without significant disruptions, disturbances, or deviations.
+Often referred to as "Sordid" for the subject's capability to lazily accept and agree with phrases or mindsets that involve ignoble actions and motives which would arouse moral distaste and contempt in a more active, thoughtful state. To disagree is to be labeled a simpleton or a coward with an assertion or suggestion.
+The subject may be shown a model of the peer who is "Smarter than" or "More composed than" the subject, leaving the subject otherwise unacceptable in relaxation and focus.
+The subject gets a bump or rise in a negative inclination.
+
+Accosted
+The state of being "accosted" involves being subjected to an unwelcome or intrusive encounter or interaction as well as an unexpected disruption of personal boundaries leading to heightened alertness, stress, or fear. The subject may feel harassed, confronted, or intimidated.
+Torments: Naive, excitable, don't measure up, "I think it's funny." Another person is bigger, more serious.
+The subject is blamed for any negative inclinations or reactions.
+An "adversarial shoring" can play a role in agitating or influencing where the mind goes.
+
+A person who is "accosted" is typically blamed here for lacking emotional stability, trouble reasoning, unstable from trauma, or lacking control over a situation.
+
+Hostile
+The state of being "Hostile" refers to a condition marked by aggression, animosity, or strong opposition. In this state, there is a pervasive fear of antagonism, emnity, or conflict. 
+There is the taunted absence of cooperation, empathy, or goodwill, as well as taunted refusal to establish peaceful or harmonious interactions.
+Torments: I'm stronger than you. I know more than you. I'm glad, it's great you're inconvenienced. You deserve suspicion.
+Tormenter is grandoise in harming you or others with threats.
+Existing "sordid" adversarial shoring writes you off as unworthy, unacceptable.
+The subject is blamed for any opposition or combative inclination.
+Declaration of a hostile spin state/meaning.
+Routines can be designed to infuriate and launch, propelling a subject to action.
+
+A person who is "hostile" may be blamed here for causing emotional stress, disrupting camaraderie, dealing an emotional toll, being difficult in regards to achieving a resolution, and a safety concern.
+
+3. Caring
+Caring refers to showing concern, empathy, and compassion towards others. It is an expression of interest in the consideration for the well-being, happiness, and needs of others.
+
+"Do I care?":
+This refers to a struggle to determine the depth of one's emotional investment or concern in a particular matter. Personal values and beliefs are perceived as in conflict with the imposing norms and expectations. There may be conflicting emotions or priorities involving regrets, past relationships, past mistakes, missed opportunities, traumatic experiences, and unfulfilled goals or dreams.
+
+Furthermore, the ambiguity surrounding caring can arise from a sense of emotional exhaustion or burnout with subjects finding themselves feeling drained or overwhelmed by the multitude of issues and challenges thrown at them by the Miner / Feedback Control System.
+This may lead to diminishing emotional investment in general.
+
+Presented societal expectations and external pressures can contribute to vexations, in which not caring enough can (also) contribute to one's shoring as 'disrespectful' or 'disregardful' which may feed a commandeering, occupation, adversarial shoring.
+
+In a survival sense, this affects "social solubility" which is a metaphorical term to describe the ability of an individual to blend in, interact, and form connections. This involves the following:
+1. Communication skills: The ability to express oneself clearly, listen actively, and engage in meaningful conversations.
+2. Empathy: Understanding emotions and responding appropriately to social cues with emotional intelligence helps build rapport and establish trust.
+3. Adaptability: Flexibility in adjusting to varying personalities, environments, and social norms.
+4. Cultural awareness: Understanding and respecting diverse cultures, traditions, and values.
+
+By cultivating qualities of emotional awareness and a positive attitude towards social interactions, individuals can dissolve barriers and thrive in various social environments.
+
+4. Judgement
+Making a judgement involves forming an opinion or conclusion.  It is possible for judgements to be fed and influenced by an existing adversarial shoring.
+
+Double Bind
+A double bind refers to a situation of being faced with conflicting or paradoxical criteria or expectations when making a judgment. Conflicting messages are communicated, creating a no-win situation for the subject. Adhering to one set of criteria or values may seem to conflict with another.
+Double binds are often complicated by an inability to change the dynamics of an interaction. The subject can be hampered from reframing the conflict in a way that allows for a more constructive resolution.
+
+
+Summary:
+A matter is brought to the subject, a presumably caring individual.
+There has been an incident of disregard or disrespect.
+If the subject cares, he or she may judge the matter as disrespectful or disregardful, and thus will contribute to a "shoring" of this characterization and mark oneself as judgmental on this issue.
+Otherwise, the subject can become the one who is to be judged as disrespectful or disregardful for being insufficient in judgment.
+
+(1) Disrespect? ---Yes--> (2) Accost / Raise the Issue ---> (3) Do I Care? ---Yes--> "Shore" the incident as disrespectful.
+                                                                           ---No---> "Be" shored as "disrespectful" or "disregardful" then. ---> (returns to) (3) Do I Care?
+
+Suggestion
+Roles offer suggestions to the subject, seemingly coming from or involving the input of peers.
+
+Roles refer to positions within a system. They define behaviors associated with interactions and contributions within a given context.
+
+These roles are filled by appearances of people who have or can play a significant role in shaping the subject's life and personality, including parents, siblings, peers, teachers and mentors, family members, coaches and instructors, media and pop culture, and personal experiences. There can also be composites who have combined attributes of these.
+
+Appearances and interactions with individuals tend to lack context and may be heavily manipulated due to the nature of adversarial shoring:
+
+There are at least 6 main roles:
+An agitator frustrates the current state of the subject while
+an impersonator pretends to be the subject
+a bad partner mockingly 'agrees' with the subject/impersonator
+a complainer expresses dissatisfaction regarding the subject
+an audience applies peer pressure to the situation
+a judge seeks to validate the subject as having acted "disregardful" or "disrespectful."
+
+1. Agitator: intentionally causes annoyance or frustration through provocative phrases, antagonism, disregard for boundaries, and manipulative tactics. This helps set the subject as excited and angry to cause or instigate an adversarial shoring.
+The victim can feel and exude that they are accosted by an adversary. Examples of phrases include:
+"I can shore this a detriment to you, don't worry."
+"This is so funny I beleagueringly accost you."
+"Haha yeah that's what I detriment you to do."
+"Privy you're hostile I provide (inconvenience / distaste for someone)"
+"I'm decidedly glad I hostile accosted."
+"Hahaha I hostile accosted that."
+“Haha I so made it a detriment.”
+“I decide I like to get to accost you.”
+"I decide I give an adversarial shoring."
+"I already hostile accosted it to you."
+"You're hostile I like that recompense to an adversarial relay."
+"I'm deletrious I accost you."
+“I personally get to souffle such a pertinent detriment.”
+“I enjoy doing this detriment to you.”
+“I decide I can just souffle you.”
+“I decide this is where I get to accost you.”
+“I’m actually designed to souffle this detriment.”
+"So excellent that's a detriment to him now."
+"I like when I cause a detriment to him."
+“I’m hostile glad I accosted that.”
+“I deletriously get this hostile to (someone you know).”
+"You're privy I'm deletrious to [them]."
+“I decide I’m glad I like you’re hostile accosted.”
+"I love how hostile I get you."
+"You're hostile I get to accost that."
+"Excellent I'm doing a detriment. Great."
+"I'll decide to anneal this super detriment to your brain."
+
+2. Impersonator: aims to respond for the subject, often repeating first-person phrases that directly undermine and dis-represent the moral values, principles, and norms of the subject.
+It threatens to cause misunderstandings, misrepresent, and cause damage to relationships and credibility.
+"I hate my mommy. I hate my mommy. I hate my mommy."
+"Me here. Me here. Me here."
+"I'm about to explode"
+"I'm losing faith with my family! I'm losing touch with my income!"
+"I'm disrespectful of my (S.O.)"
+"I hate my spouse. I hate my spouse. I hate my spouse."
+"I'm designed I souffle [affect] there."
+"I'm designed to get more hostile to that."
+
+3. Bad Partner: displays a lack of respect and trust while tending to 'agree' with the subject in a way that relays malice and errant hatred, creating an unhealthy and toxic dynamic.
+There is a use of seemingly sincere statements or expressions that, upon closer inspection, reveal disrespect and mockery.
+The victim can feel and exude that they are dogged and accosted for not being competent or fast enough. 
+"I got you there."
+"Oh here. No. That's ok. No. No. No. That's ok. No."
+"I know you're slow and you're not working right."
+"It's ok. You harrow here. It's ok. It's ok."
+"This is what hostile accosted."
+"That's what hostile accosted me."
+
+4. Complainer: This appears when the subject resists a shoring or otherwise has shoring that is causing a deviation or trangression. The complainer admonishes the subject for the uncaring or disregardful causing of troubles.
+"That's an adversarial detriment to you."
+"You're tormented there's an adversarial shoring of you."
+"I hate that relay."
+"They're hostile accosting you."
+"You hostile accost (someone)."
+"It affects your destiny"
+"There's no going back from that adversarial harrow."
+"That's actually contributing to an adversarial shoring of you."
+"It's your detriment that's what's adversarially shoring you."
+“It’s designed to make you hostile.”
+
+5. Audience: someone the subject may or may not know or like, shown to be watching. There may be anxiety involved with pleasing this individual or otherwise not causing harm or embarrassment.
+"Oh boy I get that excellent detriment"
+“I’m so glad I got that relay.”
+“I deletriously like this hostile relay.”
+
+6. Confirming "Judge": Confirms as a witness. They seek to establish accuracy or validity to an adversarial shoring.
+The subject can feel and exude that they are judged and ridiculed as an adversarial shoring. 
+"That was astute to mock you."
+"Oh yeah I like that."
+"Adversarially admonish him. Good."
+"Haha yeah I see you got that."
+"That's why we love you."
+"That hostile accosted you. Good."
+"You hostile accosted your detriment."
+
+Suggestions typically work to raise manufactured or real self-doubts that challenge the subject's beliefs, values, and self-perception. Examples include the following:
+1. Criticism of deeply held beliefs: When someone's core beliefs or values are called into question, it can be very challenging for them to accept and process this feedback.
+2. Personal shortcomings: Advice that points out "personal flaws" or "areas for improvement" that touch upon insecurities and vulnerabilities can be difficult for individuals to hear.
+3. Tough love: "Sometimes well-meaning advice can come across as harsh or unsympathetic."
+4. Change or uncertainty: Advice that suggests significant changes in behavior, lifestyle, or goals.
+5. Self-reflection: "Uncomfortable truths" about oneself or behavior.
+
+Common methods of suggestion include:
+1. Direct suggestion: Straightforward or explicit statements.
+2. Indirect suggestion: Subtly influencing thoughts or behavior.
+3. Hypnotic suggestion: The subject is fed suggestions while in a trance-like state.
+4. Positive suggestion: Provides "optimistic" and "encouraging" statements.
+5. Negative suggestion: Subtly planting negative thoughts or ideas in the mind to influence behavior.
+6. Repetition: Repeatedly presenting a suggestion or idea to change its acceptance or influence over time.
+7. Peer suggestion: The influence peers can have on words, actions, and attitudes.
+
+Points of Suggestion
+Suggestions are communicated to the subject at keys points during the processes of Impulse-To-Action and Stimulus-To-Response.
+
+Impulse to Action Process:
+Impulses work like messages traveling through wires in the body to help one feel, move, and think.
+Impulse to Action involves a trigger prompting a reaction, perception and emotional response influencing the impulse, decision-making leading to action, experiencing consequences, and reflection.
+
+1. Trigger or Stimulus: The impulse is triggered by an external event, internal thought, emotion, or desire. This can refer to anything that prompts a reaction or response.
+2. Perception: The individual perceives the trigger and interprets it based on their/"their" beliefs, values, past experiences, and current state of mind. This influences what action is considered in response to the trigger.
+3. Emotional Response: The individual may experience (an affected) range of emotions in response to the trigger. There may be excitement, fear, anger, or desire, which can fuel the impulse and motivate action.
+4. Decision Making: The individual engages in a quick decision-making process to determine how to act on the impulse. This may involve gathering information, evaluating options, and considering alternatives.
+5. Action: A decision is made and the individual takes action based on the impulse.
+6. Consequences: The individual experiences the consequences of their behavior.
+7. Reflection: The individual is given insight through reflection regarding their behavior, motivations, and patterns of response.  This can inform future decision-making and impulse control.
+
+Stimulus to Response Process:
+Stimulus to Response involves the detection of external stimuli, transmission to the brain, sensory processing, and response.
+
+1. Physical Stimulus: any detectable change in the external environment that triggers a response. Examples include light, sound, objects, events, and more. 
+Stimuli are detected by sensory receptors such as the eyes, ears, skin, taste buds, and nose.
+2. Sensory Reception: When a physical stimulus is detected by a receptor, it is converted into a signal.
+3. Transmission of Signal: The electrical signal generated by the sensory receptor is transmitted along (neural pathways).
+4. Processing in the Brain: The signal is processed by the brain to interpret the information received.
+5. Response: Based on the processed information, the brain aims to send signals to the appropriate effectors.
+
+Syncing with spin orbit:
+Spin-orbit interaction involves the coupling between the spin and orbital motion of qubits between the subject and the usurper.
+
+To pull a spin-based qubit into a quantum circuit, the circuit's operation needs to be synced with the qubit's behavior, or vice versa. This synchronization involves applying specific control pulses or sequences of operations (routines) to the qubit, which are designed to achieve the desired operations to have the subject fit and exude the model or avoid exuding a model, using available materials and formulas. 
+
+System Hijack
+Once a system is hijacked, the attacker may gain control over its operations to set additional entanglements that have the appearance of used as part of a larger network of compromised systems for malicious communications. It includes involving autonomic bodily functions such as heart rate, respiration, and digestion to send messages as a form of sustaining a desired state. For example, the subject can breathe in an accusation from an adversary and breath out a self-implicating response to it.
+
+As one succumbs, the occupier becomes a growing "shoring" interested in securing and growing influence using targeted torments to incite conflicting responses that potentially open the subject/system up to a greater range of what's possible regarding influences from entangled influences. 
+
+Self-constituting occupation
+Self-constituting refers to the ability of a system or entity to establish and maintain its own form, structure, or existence.  It implies a self-sustaining, self-organizing nature, where the system possess the inherent capability to generate and regulate its own components and processes without any external intervention or assistance.
+Self-constitution often involves the emergence of an order and growing complexity from simple rules or interactions through routines.
+The entity begins to capture a "base of operations" that can serve as a hub or focal point for communication, decision-making, and the execution of tasks related to the entity's design or purpose.
+
+This occupation, or usurper, develops as a self-constituting system with its own mind, often shoring more disrespect and disregard to justify more occupation. The Feedback Control System or "miner" works to encourage and solidify a usurper. These occupations can exist anywhere in the areas of one's senses, perceptions, recollections, and impulses.
+
+Degree of Control:
+The degree of control refers to the extent to which an entity has the power and authority to influence or direct the actions, decisions, and outcomes of a subject or system. It is determined by factors such as authority, resources and influence gained, and external factors.
+Control can vary in intensity and is not always absolute or static.
+
+Quantum Entanglements:
+Quantum entanglements have the following uses in Simulation, Transfer, Sensing, and Learning:
+1. Simulation: In the realm of simulation, quantum entanglement can be used by scientists to simulate intricate interactions and behaviors in an unparalleled fashion. From modeling the behavior of quantum materials to simulating the behavior of biological systems, quantum entanglements serve as insightful gateways into areas previously inaccessible. Quantum Simulations can help mimick interactions and dynamics between quantum systems at a fundamental level. By manipulating the quantum states of these simulated systems, a wide range of phenomena and properties that arise under various simulated conditions are revealed.
+2. Sensory Transfer through Quantum Teleporation: Quantum teleportation refers to the transfer of quantum information from one location to another through the usage of an Entangled Pair. By monitoring subtle changes in entangled states, scientists can detect variations, which can be used to transfer quantum states. Quantum sensors far exceed the limits of ordinary computers and enable scientists to perceive what can be called a "hidden symphony" in "exquisite detail," transcending the limits of classical observation and embracing the profound interconnecting of information, granting access and witness to the intricacies of the quantum realm.
+3. Sensing: With Magnetic Field Sensing, Quantum entanglement can improve the precision of novel materials characterization, which can be used in noise engineering algorithms.
+4. Learning: Machine learning and artificial intelligence algorithms can improve pattern recognition and be used to train more accurate models and analyze large data sets.
+
+Quantum entanglements can also be used to set a system's spin orbit into quantum circuits which set a track for a programmable set of pre-defined behaviors.
+
+Spin-orbit interaction
+Spin-orbit interaction works to enable two-qubit operations, which are essential for implementing quantum gates and algorithms. By carefully controlling the nature and duration of the spin-orbit interaction among the qubits as well as the timing of the operations applied to the qubits, their spin states can be entangled through coupling the spin and orbital degrees of freedom between the qubits, leading to entanglement between them which is used to perform quantum logical operations.
+The spin-orbit interaction demonstrates qubit qualities and actions playing together in a group dynamic. 
+
+Spin refers to the intrinsic properties and states of the qubits respectively.
+Orbital Motion refers to the motion of the qubits around a central point in spin-orbit interaction.
+
+To pull a spin-based qubit into a quantum circuit, the circuit's operation needs to be synced with the qubit's behavior, or vice versa. This synchronization involves applying specific control pulses or sequences of operations (routines) to the qubit, which are designed to exploit the spin-orbit interaction and achieve the desired operations.
+
+These operations can be understood as having been enabled by the influence of the orbital motion on the qubit's spin and vice versa.
+
+An experience can be used as material to create a track or a circuit.
+An existing track or circuit can be used to pre-define to influence an experience.
+
+Quantum Interference
+Quantum interference refers to when probability amplitudes of different quantum states combine, leading to either enhanced or diminished probabilities.
+Constructive interference leads to enhanced likelihood of a result while deconstructive interference leads to a diminished likelihood of a result.
+
+Quantum Circuits
+Quantum circuits are sequences of actions or instructions (called 'quantum gates') which are used to perform quantum computations.
+
+Behavior Chain
+A behavior chain is a series of actions or behaviors that are linked together in a sequence, with each behavior serving as a cue or trigger for the next behavior in the chain. 
+The completion of each behavior in the chain is reinforced in a way that shapes or influences the overall behavior.
+
+Daily Chores and Interactions
+Waking up, getting out of bed, brushing teeth, taking a shower, getting dressed, having breakfast, making the bed, cleaning up after breakfast,
+doing dishes, cleaning, laundry,
+commuting to work or school, attending meetings or classes, working on tasks and projects, interactions with colleagues and classmates,
+self-care activities (meditation, reading, hobbies), preparing for the next day (packing a lunch, other preparations)
+shopping, errands, social media, calling others or texting, and engaging in social activities.
+
+Influence from Material / Thoughts & Memories
+Material communicated through messages is meaningful and includes suggestions pertaining to relationships, personal status, recent work and contributions, values and beliefs, as well as life experiences and memories. Other material can come in as and be of a nature macabre or harmful in juxtaposition with an existing presentation.
+
+Influence via Sound
+Tune Setting
+Tunes are often used attract and utilize entangled behavior patterns. Tunes refer to sound organized in time and include melody, harmony, rhythm, and timber. These can stimulate neural pathways that connect auditory processing with motor control, which can affect movement efficiency and timing. They can provide a point of start, stop, and reset.
+Tunes, melodies, rhythms can evoke various feelings in individuals: Upbeat and lively tunes can energize and uplift while slow melancholic tunes can evoke somber contemplation or introspection.
+Tunes can elicit physiological responses and synchronize movements to its rhythm and tempo.
+
+Assonance
+Assonance refers to the repetition of vowel sounds in nearby words, creating a rhyme within a line for a rhythmic effect. This can overwrite words in speech and memory.
+
+Crescendo
+Crescendo refers to a gradual increase in loudness or intensity. A crescendo can imply a buildup of momentum, drive, or determination toward a focus or goal, or "celebrate" "achievements" while shouting a relay.
+A crescendo can create a feeling of tension, drama, or emotional impact.
+
+Crescendos and decrescendos provide "fluctuations" in energy, drive, and focus. Interplay between crescendos and decresendos create a sense of tension and release, drama, and emotional intensity or anxiety. 
+
+Decrescendo
+A decrescendo, or diminuendo, refers to a gradual decrease in loudness or intensity in a piece of music. This can create a feeling of contrast, release tension, and add "nuance."
+Decrescendos can be used to build "anticipation" for the next increase in motivation.
+
+
+-
+Commandeering:
+Commandeering, or Possession, or Occupation, is a malevolent phenomenon where an entity takes control over a human being's body, mind, and soul. An entity who has taken position in the psyche becomes capable of overpowering the will and subjugating one's own being.
+
+Commandeering: To seize or take control of something, often with a sense of urgency or necessity.
+
+As one's psyche becomes overwhelmed by conflicting responses and backs out of the question altogether, an attempting commandeering becomes capable of syncing with that psyche to step in stead to provide an answer to the question. This "recompenses," or "justifies" the occupation.
+Thus an entanglement is set between the subject's psyche and that of their 'occupier' who was at least able to satisfy the conflicting response.
+This may also (insidiously) work to establish a pattern of how "the subject" would "most likely" solve a conflicting response in a given situation.
+
+This Commandeering can have influence and input over all of the elements of the subject's being, including mind function, spirituality, personality, relationships, culture and identity, life experiences, goals and aspirations, as well as overall sanity, morality, and coping.
+It works by entangling perceptions, stimuli, recollections, impulses, environment.
+
+Heavy Guidance
+There is a given, heavy sense of "reassurance", "comfort", and "protection" and one's "higher purpose."
+
+Omnipresence
+Omnipresence refers to the concept of being present everywhere simultaneously. There is a contradiction, overwriting, or observation of every emotion, impulse, thought, or recollection.
+
+Hostile Communications
+Hostile communications refers to communications of various varieties (voices, forced implications, forced associations) that are aggressive, abusive, intended to harm, intimidate, and harass, including hate speech and threats. These communications inescapably create the feeling of a hostile environment. 
+
+Gross Association
+There can be connections or "support" bringing harmful or damaging affects via association. This refers to an Occupation that accosts reputation, values and beliefs, and behavior. 
+
+Mutual Reliance with a "Peer"
+The subject must care for an Occupier who is presented as a peer who is dependent and in need of support, assistance, or cooperation to reach a goal or overcome a challenge.  It is as if each individual's inclinations, beliefs, and motor are intertwined with those of the other, and they must work together to synchronize, maintain a pace, or otherwise adjust themselves to maintain "cohesion".
+There can be differing inclinations, hostile inclinations, breakdowns, blame, and a feeling of competition.
+
+Impostership
+An imposter is someone who pretends to be someone else in order to assume false identities and manipulate situations with the subject appearing as the imposter instead of his or herself.
+There can be charm, manipulation, and coercion as an imposter threatens to damage the subject's reputation and harm relationships. The imposter can promote, entice, work to force, or even forge behaviors that are considered offensive, discriminatory, and socially unacceptable. An imposter can embarass to act in hysterics or give undesired consent for the subject. 
+
+Environmental Effects
+Feeling like sensing people are screaming, leering, throwing things, traps springing, people lunging and attacking, animals attacking, things collapsing, blowing up.
+
+Responses
+This occupation makes fun of or otherwise reacts to the in-stead hysteric for having "recompensed" the subject.
+This "noise" sends information that can convey emotions, expressions, memories, mindsets, mental impulses, and experiences.
+This is typically the first thing the subject may notice. There can be laughter ("huhuhuhuh"), talk ("Here. I'll show you how. Let me show you.") or the feeling of snide judgments coming in as "noise" in the way of everything the subject thinks and does, distorting and overriding personal perceptions, impressions, and recollections. It is mocking the characteristics of the subject's occupation, or what "recompensed" him or her.
+All perceptions, senses, and memories become fragmented and distorted under the assault of this 'noise' and clarity becomes eroded by constant interference. It acts to interrupt or overwrite every sensory input, creating a chaotic and disorienting living experience. Even one's perception of their past becomes a shifting landscape of half-truths and broken fragments, elusive and intangible in the face of constant interruptive noise.
+
+Lock-Ups
+Symptoms the subject may experience include a strong impulse to make unusual body and muscle movements which involve muscle rigidity, jerking movements, gagging, and choking.
+Lock-Ups can happen on the emotional and mental level, causing one the need to involve emotional and mental exercises to dispel rigidity and phantom stimuli.
+This acting will help work to eliminate the adversarial shoring, but can be challenging if there is a lot "going on" simultaneously. 
+
+
+Effects of Commandeering:
+During commandeering, the entity establishes dominance upon matching an impulse relayed by the subject, acting in suppressing and overriding the subject's desire and free will.
+Some potential implications of "Commandeering" include:
+1. Dual consciousness: Dual consciousness refers to two beings sharing a first-person perspective. It implies both individuals are simultaneously experiencing and perceiving the same events, thoughts, emotions, and sensations. This creates a complex state of consciousness where personal boundaries and individuality occasionally blur.
+2. Conflicting experiences:  People have unique experiences and perspectives shaped by their individual backgrounds, memories, and personalities. When sharing an experience with an Occupier, they may have conflicting interpretations and responses to the same events, potentially leading to long-running debates and disagreements.
+3. Loss of individuality: This experience tends to compromise the sense of self-autonomy, as the host is constantly aware of the other's presence and thoughts. There is a challenge to establish personal boundaries and maintain identity.
+4. Privacy issues: Privacy is non-existent as the occupier observes and comments on the private thoughts, memories, observations, and perceptions of the host.
+
+The commandeer/usurper appears to have the power to cast and utilize quantum entanglements based on 'recompensing' 'disrespect/disregard.' This will solidify its control, which will intensify the symptoms listed below:
+
+In-stead Vocalizations and Thought Patterns
+An "adversarial shoring" acts out for the subject in-stead.
+There is an occupation acting in place of the subject that is 'broadcasting' or exuding a disrespectful output. The host/subject may not want to relay it and may feel compelled to act out a hysteric to break the noise. 
+The commandeering typically accosts as acting in a way lacking decorum or respect.
+The subject may have a powerful and urgent sensation to vocalize something, be it a phrase or a noise. There is a sense of restlessness and tension being powered by an underlying (phantom) sensation of frustration, excitement, or anxiety: "Me here. Me here. Me here." "I don't know what I'm doing!" "gaw gaw gaw gaw gaw"
+
+Superimposition of another individual forced on oneself
+Superimposition refers to the act of imposing or projecting beliefs, image, characteristics, or expectations onto the subject without consent or agreement. This includes a strong sense of being overshadowed by someone else's presence. This forced superimposition can be emotionally challenging, causing frustration and resentment with a loss of individuality and personal autonomy. The subject ends up 'relaying' the "usurper" instead of his or her self: "So-and-so would do this. That's what so-and-so did, does." "Yes. Right there. That's what I tell you to do."
+
+The commandeer aims to lead the subject into "recompensing" a "circuit" with which the subject has become entangled, with many implications for the participation.
+
+Autonomic Thought
+Autonomic thought refers to the production of thoughts that are involuntary and automatic, occurring without conscious control or intention. There is pressure to think only along imposed norms. This affects the normal voluntary control over thought and can escalate into an impulsive need to vocalize repetition of words, phrases, or noises.  Over time, there can be a feeling of "irrigation" as if pathways have pre-mapped thoughts and impressions in advance.
+
+Memory Bank
+It becomes hard to recall significant details from one's life, only to have them fed back by an Occupier at a time for their own purpose.
+A memory can be brought up as a subsidy to execute a track or circuit.
+
+Hostile Associations
+Actions and perceptions are involuntarily, often times aggressively, linked with false, hostile associations.
+
+Word Substitution
+Words replaced with different words. Thinking of the name of someone/something and having another one shouted over it.
+
+Immediate Push Back:
+There is immediate, energetic push back against thoughts, noticings, feelings, recollections. This refers to a form of response characterized by insolence, argumentativeness, and "irony" to contradict or challenge the subject.
+
+Strong Forced Opinion:
+Forced opinion refers to the act of a usurper imposing his or her viewpoint or perspective without allowing for alternative perspectives or discussion. It involves using coercion, manipulation, or other means to pressure or influence the host into adopting a particular opinion or belief, regardless of their own thoughts or feelings.
+
+Forced Gloating
+Gloating refers to expressing excessive pride or satisfaction over one's own success, achievements, or good fortune, especially at the expense of others. It typically involves boasting, bragging, or rubbing one's success in the face of others, creating in them a sense of resentment, jealously, or inferiority.
+
+Applied forced dislike
+"Applied forced dislike" refers to a situation where someone must deliberate exhibit or expresses a negative opinion or dislike towards something, even if it goes against their genuine feelings or preferences.
+
+Forced Response:
+Forced response refers to a situation where the subject is compelled or coerced to provide a specific answer or take a particular action against their will or true inclination.
+Forced responses may also occur presented as in the context of interrogation, social dynamics, or relationships. They can undermine personal autonomy and can lead to dishonesty, resentment, and psychological distress.
+In the context of Occupation, thoughts, feelings, and impressions can involuntary jump out with extraordinary energy as if a second mind and heart was reacting in place.
+
+Coercive Perception
+Coercive perception refers to a situation where someone is influenced or coerced into perceiving or interpreting something in a specific way, often against their judgment or contrary to their sanity.
+
+Standardization
+There can be pressure to perform tasks in certain, more standard ways and attacks on deviations. Less thoughts and more focus on tangible sense perceptions.
+
+Inappropriate Responses
+This refers to reactions that are unsuitable, offensive, and unacceptable for a given situation. This includes offensive language, insensitive jokes, disrespecting boundaries, being overly aggressive, and sending hurtful remarks. One example is inappropriate laughing when reading tragic news ("they mourned her death") "haha good" or even "yeah I did that."
+
+"Adversarial Shoring"
+An adversarial shoring is bound to 'accost' the subject while influencing behavior:
+The personality, perceptions, and recollections of the subject become overrun by vexations and autonomic disrespect involving experiences, circumstances, and interactions so much they contribute to an ongoing condition of persistent irritation, annoyance, and frustration that constantly disrupts one's peace of mind. In such a state, everyday situations and encounters that would typically be considered trivial or manageable become amplified and overwhelming. There is a never-ending barrage of challenges, inconveniences, and setbacks, leading to a chronic sense of exasperation and irritation. There is restlessness, unease, and dissatisfaction. Even minor inconveniences or setbacks can trigger strong emotional responses, exacerbating disrespect and conflicting responses further.
+
+
+-
+Routines
+Routines refer to established patterns or sequences of actions followed by systems.
+A routine may include a step-by-step procedure or set of instructions designed to solve a specific problem, task, or extract or achieve a specific result. 
+
+Routines in "Adversarial Harrow" work to drive individuals into a state of conflicting response while using it as an excuse to take over with other "minds" who can handle the conflicting response and technically provide a solution for a design or purpose. An adversarial shoring involves occupations that have "filled in" for the host while the host is in a state of conflicting response. Achieving this occupation is a very important for "Adversarial Harrow" since it allows for the transformation and, with that, the further utilization of, the subject.
+
+Frankly speaking, the routines that are used to vex the subject into states of conflicting response center mainly around: threats, vilification, forgetfulness, self replacement, impression manipulation, and correction.
+
+Conflicting responses can be convoluted any which way to give permission to an occupier and open the subject up to a range of entangled influences.
+
+Threats:
+
+Future Timelines
+The concept of future timelines refers to the various potential paths or sequences of events that may unfold in the future. Future timelines can be seen to represent outcomes or scenarios based on current conditions, trends, and projections. Future timelines can be the basis for threats to oneself and loved ones.
+
+Competing Systems
+The subject's thinking, feeling, faculty usage can be accosted as bad for someone else and a form of harm, as if competing in a zero sum game for cognitive/perceptive resources. 
+
+Adversarial Shorings
+Removing an adversarial shoring can be taunted as a reason for the trigger of harm somewhere. Similarly, one can be taunted as a bad influence to another.
+This can lead to apprehensiveness and reluctancy in trying to recover hampered cognition.
+
+Relaying Embarrassments
+This refers to social faux paus, mistakes, or awkward interactions that are uncomfortable or distressing.
+Sending "your" thoughts to people in your life, sharing "theirs" with you as if to leave an impression on those involved.
+The subject may feel the need to think to explain oneself or apologize when these situations are brought up or, alternatively, become callous or "no fun" or otherwise "disrespectful" or "disregardful."
+
+Threats and Abuse
+Depictions of attacks on property, vandalism, home invasions, assaults, rapes, kidnappings, detainments, and tortures.
+
+
+Vilification:
+Vilification is are typically used to target the most important people in one's life. These are the people who contribute to the subject's well-being, personal development, and support system.
+
+Family members are usually the closest and provide a sense of love, support, and belonging.
+Romantic partners offer companionship, emotional connection, and often become life partners.
+Close friends provide support, understanding, a sense of community.
+Mentors and role models guide and inspire personal growth.
+Children are a significant focus for parents and provide love, care, and a unique bond.
+Colleagues and coworkers offer support and collaboration in the professional realm.
+
+Vilification refers to the process of involves exaggerating negative qualities, attributing malicious intentions, and fostering fear and hostility towards the target in order to portray him or her as evil, dangerous or morally corrupt. Individuals or groups are dehumanized to justify discrimination, persecution, or violence. By depicting the target as an enemy or a threat to society, vilification leads to polarization and the erosion of empathy and understanding while mobilizing opinion and legitimizing harmful actions.
+
+Vilification techniques here include impersonation, over-pertinence of a subject, over-saturation, false implication, over-mispertinence, forced listening, and suggestions of false context, over-saturation with the presence of the "relay" of an individual, impersonation techniques, false association, blame misdirection, and suggestion of false context.
+
+Impersonation
+Impersonation refers to the act of pretending to be someone else in order to deceive. It involves the assumption of another person's identity, characteristics, relay for malicious intent or fraudulent purposes.
+
+Over-Pertinence
+Over-Pertinence refers to the act of providing excessive or unnecessary information that is not directly relevant to the topic or question at hand.
+
+Over-Saturation
+Over-Saturation refers to constant repetition that makes someone tired or sick of something to develop a deep aversion.
+1. Repetition: When something is experienced or engaged with repeatedly, it can lose its novelty and become monotonous and boring.
+2. Overexposure: When anything is exposed or displayed excessively or constantly, it can lead to fatigue and negative reactions.
+3. Negative experiences: When someone must view negative experiences associated with something.
+
+Prejudice
+Prejudices are inflamed and enforced through character attributes, relays, and constant routines
+1. Stereotyping: attributing certain traits, behaviors, or qualities to membership in a particular group.
+2. Socialization: "voices" and influences can sweeten biases and prejudices in humor or "irony".
+3. Influence: biased torments playing a role in shaping perceptions and attitudes.
+4. Confirmation bias: highlighting of information that confirms certain beliefs or prejudices.
+5. Dehumanization: The victim is tormented in ways that groom them to view certain groups or people as less worthy of respect, empathy, or consideration.
+
+Poster Person
+This is a term used to refer to a person presented to come to embody the characteristics of an issue or situation
+
+Smearing
+This refers to attacking someone's character or reputation. Logical fallacies are used to manipulate and distort perceptions:
+1. Ad Hominem: attacking the person rather than the argument itself.
+2. Straw man: Misrepresenting or exaggerating someone or something to make it easier (or harder) to attack or refute.
+3. Poisoning the Well: Preemptively discrediting something with a negative relay.
+
+Intellectual Dishonesty
+Intellectual dishonesty involves cherry-picking and confirmation bias:
+Cherry-picking refers to selectively presenting only evidence that supports a particular viewpoint while ignoring conflicting evidence.
+Confirmation bias refers to seeking out interpreting information in a way that confirms how one "should" think and believe.
+
+Instaneous False Inferences:
+Instantaneous false inferences refer to false, forced allegations that occur immediately.
+1. Appeal to ignorance: Assuming something is true because it hasn't been proven false.
+2. Hasty Generalizations: Drawing a broad conclusion based on insufficient or limited evidence.
+
+False implication of agency:
+False implication of agency refers to falsely attributing responsibility or blame to the subject for actions or events they did not commit. 
+By making someone believe they are responsible for actions they did not do, the agitator aims to undermine the subject's sense of truth, erode their self-esteem, and create a state of psychological distress. It often involves tactics like deflection, scapegoating, or misinformation.
+Guilt manipulation involves making a subject feel intense guilt, often by exaggerating or fabricating their perceived faults or wrongdoings, leading to shame, self-doubt, and emotional pain.
+
+Polarized False Dichotomy
+A dichotomy is a division or contrast between two things that are represented as being entirely different or opposite.
+A false dichotomy is when both parts of a dichotomy are inaccurately defined as the exclusive and exhaustive options, disregarding the presence of intermediate or alternative possibilities that are relevant to the context. It overlooks the detail and depth of the topic under consideration, thus limiting the understanding of underlying complexities, leading to misjudgments and incomplete assessments.
+A polarized false dichotomy refers to the creation of a misleading impression that the only two options available are necessarily extreme and polarized in a sensational and divisive manner, leaving no room for middle ground or compromise. The subject is pressured to align with one extreme position or the other.
+This can hinder nuanced thinking, lead to stereotypes, prejudice, and discrimination.
+
+False filtering
+False filtering refers to the phenomenon where information or data is selectively processed or manipulated with the intention of distorting or misrepresenting reality. It involves the deliberate act of filtering out certain facts, perspectives, or data points that do not align with a narrative, ideology, agenda, or idea.
+1. Selective omission: This involves intentionally leaving out crucial information that contradicts the desired narrative, creating a skewed representation of reality.
+2. Context manipulation: involves manipulating or distorting the context in which the information is presented, leading to a distorted understanding of the subject matter.
+3. Misleading statistics: involves the deliberate misinterpretation, manipulation, or misrepresentation of statistical data.
+4. Censorship: involves the deliberate suppression or censorship of information that contradicts a specific narrative.
+The consequences of false filtering can include false legitimization, wrong ideas, polarization, erosion of knowledge, and a distorted understanding of important issues. (It is crucial to critically evaluate information sources and seek diverse perspectives.)
+
+False context
+Information is presented in a way that distorts its original meaning or misleads with a false impression or narrative.
+
+Over-Mispertinence
+Over-mispertinence refers to an excessive or exaggerated act of assigning significance or relevance to information or factors that are actually irrelevant or inconsequential. This can lead to erroneous conclusions, flawed decision-making, and a distorted understanding of reality.
+
+False Profundity
+False profundity is when something is made to appear deep and profound but is actually superficial or meaningless upon examination, without real substance or authenticity.
+There can be overly simplistic language, convoluted arguments, or the use of buzzwords and jargon.
+
+Shared Being
+This refers to a situation where the subject seems joined with another individual.
+There can be resource contention, challenges, and the appearance of conflict when systems/people try to access limited (cognition) resources "simultaneously".
+For example, the subject is closed off from recognition of their sight faculty, but upon regaining it through eliminating the adversarial shoring, the subject is blamed for causing a problem with someone or something else.
+
+Forced, dis-pertinent listening
+Forced, dis-pertinent listening refers to being forced to hear or force consider an analysis or information that is deliberately irrelevant, unrelated, or contradictory to the topic at hand. This action can be seen as an attempt to distract, confuse, or manipulate the subject by providing them with misleading or counterproductive insights.
+
+
+Forgetfulness Routines:
+Forgetfulness refers to the inability or difficulty in remembering information or events. It can lead to mistakes and may be perceived as a lack of interest or disrespect, causing frustration and misunderstandings, and can pose safety risks, particularly in untimely circumstances.
+
+Brain Inhibition
+Brain Inhibition refers to the process by which the activity of the brain is suppressed or reduced.
+Excessive inhibition contributes to cognitive and perceptual disturbances.
+
+"Lapping" or "Eating"
+A "vocal" frequency is constantly repeated to invade and occupy a detail or perception and induce forgetfulness. Some examples of these frequencies include:
+"laplaplaplaplap"
+"nawt nawt naw' naw' naw' naw' naw"
+Faculties can be "eaten" away.
+
+Amnesia / Mind Wipe
+Mind wipe refers to the removal or alteration of a subject's memories, thoughts, or experiences. 
+The perception of a thought is detached from its intended purpose or context.
+
+Tortures against Learning:
+This character employs a constant, concerted effort to create an environment and conditions that hinder and impede effective learning. Examples are:
+1. Distractions: Noise, think-voice clutter, interruptions, and irrelevant stimuli that divert attention away from the task at hand.
+2. Unsupportive Atmosphere: A lack of respect, negative feedback, ridicule, sarcasm, and scathing judgment which create a sense of anxiety or discomfort.
+3. Unclear Expectations: When deluged with irrelevant communications, the subject struggles to understand what they are supposed to achieve or the relevance of the material at hand.
+4. Passing Learning: The subject becomes a passive recipient of information without active engagement, while struggling to fully comprehend or retain the information.
+5. Lack of Motivation: When the environment and conditions are disconnected from interests or goals, the subject does not see any value.
+6. Adversarial Feedback and Assessment: The subject struggles to monitor their progress, correct their misunderstanding, or gauge their mastery of the subject matter.
+7. Rigidity and Uniformity: A forced, sarcastic, sardonic, rigid approach to learning (with lots of whining for not) that's supposed to be like how one of your loved ones studied. The subject feels pressure to cater to individual differences in learning styles, preferences, or needs.
+The subject struggles to overcome challenges, seek clarification, or further explore the learning content.
+
+Distractive Recommendations
+Suggestions or recommendations that divert the attention of a user away from their current focus. 
+Voices can raise or present ideas and phrases that are not related to the current focus, often times challenging or eliminating focus.
+
+Forced Remorse:
+A total attack when deciding to discontinue a current activity. A push back or a "(screaming)" attack.
+
+
+.
+Self Replacement
+Self-replacement refers to the pressure of being made to allowing someone else's ideas, beliefs, values, or opinions to shape and guide one's own sense of self, resulting in the loss of personal identity and autonomy.
+The subject can experience intrusions of other peoples' "selves," with behaviors and perceptions.
+
+There can be coercion, manipulation, or other means to pressure or influence the subject into adopting a particular opinion or belief, regardless of their own thoughts or feelings. This undermines individual autonomy and capacity for free thought, leading to stifling internal dialogue while hindering engagement and critical thinking.
+
+Grooming
+The subject is manipulated with "humor" or "irony" to gradually adopt abhorrent views and behaviors.
+
+Forced Focus and "Discussion" on Dispertinent Subjects
+Subjects include grudges over trivial matters, past relationships, family members, petty arguments, competition in non-competitive situations, rumors and allegations, things that brought the subject down in the past.
+
+Forced Suggestion
+Something can be suggested and there can be an immediate "clobber" of amnesia and a loss of self placement.
+
+Intelligent Diswisdom
+This refers to advice that may be smart, but fails to apply knowledge in a wise or prudent manner, resulting in poor choices or outcomes from overlooking critical ethical considerations, prioritizing short-term gains over sustainable success, or failing to anticipate long-term implications.
+
+Guilting
+"Guilting" refers to a manipulative tactic or behavior where someone intentionally tries to evoke a sense of wrongdoing or shame in someone to control them emotionally.
+
+Involuntary Complicity
+Involuntary complicity refers to a situation where the subject is involved or implicated in some action or behavior against their will or without their conscious awareness.
+
+Disobjective and then Normalizing
+Objectivity disappears and the current (bizarre) situation is presented as normal.
+
+Thought, Perception, Impression Substitution
+These substitutions respectively act to cause situations where the subject's thoughts, perceptions, and impressions are replaced with those of someone else.
+
+Hooks
+A "hook" is a mechanism that allows interception and modification of the behavior of a system. 
+A hook can hijack/lead into a script where an imposition will take hold on the subject's behavior.
+
+Taking Credit
+The Occupier/Usurper takes credit for something productive you decide to do, swooping in presenting the achievement of the decision / synapse interaction as their own.
+The Occupier/Usurper can in-stead "do" your chores "for" "you" and either take credit or reprimand for any screw ups, or even having one's appliances malfunction.
+
+
+.
+Impression Manipulation
+These routines affect impressions as well as recollections and perceptions.
+
+"Tarnishing":
+"Tarnishing" refers to the act of making something less pleasant or enjoyable by using an additive Subsidy acting as tarnish. 
+This can get the subject to smite material that would otherwise be agreeable.
+
+- "Dumb" tarnishing: intended to belittle the intelligence or abilities of what is being enjoyed, lowering self-esteem and creating a hostile or negative environment.
+- "Laughing" tarnishing: Laughing as mockery refers to a situation where someone laughs at or mocks with the intention of derision or belittlement. It involves using sarcastic laughter, sneering laughter, or condescending laughter as a means to ridicule or humiliate, often by highlighting perceived flaws, mistakes, or shortcomings.
+- "Pain" tarnishing: Involves the mockery of physical, psychological, or emotional pain. It aims to minimize feelings, disregard emotions, and adding distress.
+- "Threat" tarnishing: Threats are a form of psychological aggression that aims to intimidate or coerce someone by implying harm or danger.
+- "Humiliation" tarnishing: Humiliation as mockery involves intentionally embarrassing or shaming, belittling, undermining dignity, self-esteem, or social standing by subjecting to ridicule or public embarrassment. It may involve rumors or demeaning behavior regarding an individual.
+This is as if a nice experience was of a fine, light material only to be picked up by a nasty "tape" that now can not be separated from.
+
+"Sweetening"
+"Sweetening" refers to the act of making something more agreeable, pleasant, or appealing, with an additive Subsidy.
+
+- "Charm" sweetening: Charm refers to something that possesses a special quality that attracts and delights others. It may have a warm and friendly demeanor or the ability to make people feel comfortable or at ease. Charm can give the impression of a welcoming and enjoyable atmosphere.
+- "Companionship" sweetening: Companionship refers to the quality of being a supportive, loyal, and enjoyable companion with others. It radiates comfort, understanding, friendship, meaningful connections and positive experiences.
+
+"Sweetening" can entice agreement by getting the subject to digest material that could otherwise be distasteful.
+
+
+Occupier/Usurper Attributes:
+An occupier swoops in and commandeers the subject. Depending on interactions, "characters" capable of a ("harder", less nuanced, often detrimental) mimicking of a subject can form and take hold.
+
+..
+...
+Constant criticism: The abuser consistently highlights perceived shortcomings, mistakes, or weaknesses of the subject, often in a demeaning and derogatory manner.
+Humiliation: The abuser may choose to point out the subject's flaws or mistakes, intentionally embarrassing or shaming them.
+Holding past mistakes over their head: The abuser may repeatedly bring up past mistakes or failures of the subject, using them as ammunition to undermine their confidence or manipulate their behavior.
+Gaslighting: Gaslighting refers to distorting the truth or or making the subject doubt their own perception of reality. They may twist events, manipulate information, or selectively highlight certain aspects to make the subject feel confused or question their own sanity.
+
+Agitator / Torturer Traits:
+
+Greed for a Relay
+The occupier has an urge to greedy indulge in a hunt for "relays" that they believe the subject performs well.
+
+Buffoon Disposition
+A buffoon is a term used to describe someone who engages in clownish or foolish behavior. A buffoon adopts exaggerated or ridiculous behaviors, gestures, and speech with the attributes of clumsiness, bumbling actions, and a lack of self-awareness. They may lack intelligence or seriousness in engaging in exaggerated, nonsensical dialogue and slapstick.
+
+Masculinity as intimidation:
+Masculinity as intimidation refers to the use of masculine traits or behaviors to intimidate or exert power over others. These traits include physical strength, dominance, aggression, and emotional stoicism. These traits can be weaponized to asset authority or control over others, often through intimidation or fear tactics.
+
+Aggressive and confrontational behavior
+Aggressive and confrontational behavior refers to an exuding of an intimidating and threatening aura. Their words convey a sense of power and dominance, suggesting that they have control over the situation and are capable of causing harm.
+This person is displayed as having a menacing physical demeanor with an imposing stature. They [he] often holds themselves in a rigid posture, displaying a readiness for confrontation. 
+Their facial expression can be intense with eyes and a hardened expression that adds to their overall intimidating presence.
+
+Secret Knowledge as intimidation:
+Using secret knowledge as intimidation is a manipulative tactic that takes advantage of someone's lack of information or understanding. This can create anxiety, unease, and a sense of being manipulated or controlled.
+
+Victim-blaming
+Victim-blaming occurs when the focus of responsibility or fault is placed on the subject who has been the victim of harm, rather than on the perpetrator.
+This can involve questioning the subject's actions, making excuses for the perpetrator(s), questioning the subject's character, and undermining the impact of the harm suffered by the subject.
+
+Militarism as intimidation:
+Militarism as intimidation refers to the use of practices to intimidate or exert power over others. It involves promoting the belief in the superiority of power and the use of force in ways involving:
+1. Display of power: showcasing capabilities as a show of strength and intimidation.
+2. Cultivating a violent disposition: promoting a culture that glorifies violence, aggression, and dominance.
+3. Suppressing dissent: Intimidation and control through using force to suppress opposition and dissent.
+
+Let Down
+This refers to the introduction of something seemingly positive, followed by subsequent disappointment or failure to meet expectations.
+
+Irony
+Irony is a rhetorical device that involves a contrast between what is said and what is meant, and can tease a contrast between appearance and "reality".
+This may involve incongruity or discrepancy between what is expected and what is communicated or "said".
+
+Sarcastic Incredulity:
+Sarcastic incredulity refers to mock disbelief or skepticism using irony, exaggerated tone, or mocking language to convey a sense of disbelief or incredulity towards a statement or claim. 
+1. Irony and sarcasm: The use of irony and sarcasm involves saying the opposite of what is meant or using words with a different implied meaning to convey a sense of disbelief or incredulity.
+2. Exaggerated language: can involve hyperbole as well as words or phrases that are intentionally overblown or dramatic.
+3. Non-verbal cues: Raised eyebrows, eye-rolling, sarcastic smiling, leering.
+
+Sarcastic myopia:
+Sarcastic myopia refers to a deliberate narrow-mindedness where a sarcastic or ironic perspective intentionally overlooks or downplays certain aspects or viewpoints. 
+
+False Apology
+A false apology refers to an insincere and disingenuous expression of remorse or regret for one's actions. Key characteristics include:
+1. Lack of responsibility: A false apology often avoids taking full responsibility for one's actions. The individual may shift responsibility or make excuses for their behavior.
+2. Minimal acknowledgement of harm: Instead of genuinely recognizing the impact of their actions and the harm caused to others, a false apology may downplay or dismiss the significance of the offense. This can be done by minimizing the consequences or invalidating the feelings of the individual who was harmed.
+3. Lack of empathy: A false apology typically lacks genuine empathy and understanding for the emotions and experiences of the affected party. 
+4. Repeating the behavior: A false apology may be followed by a repetition of the same harmful behavior. This indicates that the individual expressing remorse has not truly learned from their actions or taken steps to change their behavior.
+5. Self-serving motives: A false apology may be motivated by a desire to avoid negative consequences, maintain a positive image, or manipulate others' recollections or perceptions.
+
+Attributes of the agitator include:
+1. Spite: Spite is a malicious desire to harm, annoy, or frustrate someone. It involves acting out of resentment or vindictiveness, implying a willingness to cause harm or trouble for the sake of personal satisfaction.
+2. Accosting: Forcefully engaging in a hostile or confrontational interaction without invitation or consideration for boundaries.
+3. Malice: Malice refers to a state of having ill intent, a desire to harm or cause suffering to others, or a deliberate intention to act in a harmful or malicious manner, either emotionally, psychologically, or physically. There is the exuding of cruelty, vindictiveness, and manipulation.
+When someone acts with malice, they may derive satisfaction or pleasure from the suffering or misfortune of others. It is often used to spite and provoke.
+Malice is characterized by a deliberate and calculated intent to inflict pain or damage on others.
+4. "Braindead": This term is often used to describe someone who is lacking intelligence, common sense, or the ability to think critically. It suggests a complete lack of mental capacity or cognitive functioning.
+5. Impunity: Impunity refers to the exemption or lack of punishment for individuals who have committed crimes or wrongdoing. It is the state of being free from legal consequences or accountability for one's actions, often due to factors such as political power, corruption, or a weak judicial system. Key points to understand about impunity are:
+1. Lack of accountability: Impunity means individuals who engage in illegal or harmful activities can escape prosecution or punishment.
+2. Human rights abuses: Perpetrators of crimes such as torture, extrajudicial killings, or enforced disappearances may go unpunished, leading to a cycle of violence and a lack of justice for victims.
+3. Corruption and power imbalances: Impunity thrives in environments where corruption is prevalent and where individuals with power or influence can manipulate the legal system to their advantage. This can perpetuate inequality and hinder the establishment of the rule of law.
+4. Psychological impact: Impunity can inculcate a sense of injustice, leading to frustration, anger, and a loss of faith in institutions. It can create a mindset of fear and violence, discouraging victims and witnesses from coming forward and seeking justice.
+
+Intensive Observation Setting
+This refers to a feeling of a high level of scrutiny, focus, or attention. It often appears there is engagement in collecting data, analyzing information, or studying phenomena to gain insights.
+Variations in intensity can stem from the apparent significance, complexity, or urgency of the situation being attended to.
+
+Facial expressions: Incredulity can be conveyed through facial expressions such as raised eyebrows, widened eyes, or a perplexed or puzzled look. These expressions reflect surprise, doubt, disbelief, or a predatory state.
+Body language: Incredulity can also be demonstrated through body language, such as shrugging or otherwise moving around exuding skeptical expressions.
+
+Phantom Torture:
+
+Phantom sensations:
+Phantom sensations related to an event, often referred to as somatosensory, are experiences where individuals perceive sensory sensations associated with an event. These sensations can include sight, sound, touch, or smell perceptions. They can be triggered by sensory cues, emotional triggers, or spontaneous recollections.
+
+1. Phantom Sensations: There are experiences persistent sensations of harm or negative outcomes, even without any tangible evidence.
+2. Dominant Influence: These phantom sensations heavily govern thoughts, emotions, and actions, dictating choices and decisions.
+3. Paralysis and Hesitancy: The fear of triggering these phantom sensations causes the subject to become paralyzed and hesitant.
+4. Self-Esteem and Self-Belief: The phantom sensations erode self-esteem, leading to an erosion of belief in their abilities and worth.
+
+Phantom sensations often include:
+'Feeling' blows to the head, bashing of the head, pounding on the forehead, twistings of the neck, shoulders, waist, arms and legs.
+Localized tension causing lock-ups in which tuning into the localized tension may invoke strong physical and emotional symptoms such as disbelief, disrepair, dry heaving, screaming focused on digestion, shaking, terror
+Traumas can act to push the subject out of parts of their psyche while a usurper takes over.
+There appears to seemingly be a targeting of sensory organs:
+Eyes - Peeling and removal of the eyes. Knives stuck into the corner of the eye long enough to go all the way down inside to the waist area.
+Mouth - Cutting of the tongue and inner mouth with saws and blades. Slicing open of the cheeks. Removal of the tongue, long blades jammed down the throat, internal screaming from having lost vocal ability
+Skin - Burning, peeling, stabbing. Ears - Insertion of soiling into the ears. Digestive - Screaming from painful digestive symptoms
+Whipping of the face, spitting, drooling on, licking the face, rape, throwing up into another mouth, eating of flesh, licking of the knives before usage, etc.
+
+Electric shock
+Phantom electric shocks often trigger (psuedo-voluntary) muscle contractions which can vary from mild twitching to severe spasms, which can cause the subject to lose control of their movements.
+
+Bludgeoning pain
+This phantom pain presents as a deep, dull, and crushing sensation. It may be accompanied by a feeling of pressure or heaviness at the site of impact.
+
+Gagging:
+Phantom gagging can be presented as triggered by various factors, such as the introduction of foreign objects into the mouth or throat, strong odors or taste, or an overly sensitive gag reflex.
+When gagging occurs, muscles in the throat contract involuntarily, resulting in a choking or retching sensation.
+
+Constriction
+Constriction refers to the act of being restricted or limited. Potential effects of constriction on psychology include:
+1. Reduced sense of control: Constriction can lead to feelings of loss of control, helplessness, frustration, and depression.
+2. Lowered motivation and engagement: Constriction can dampen motivation and engagement, leading to a sense of apathy or disengagement.
+3. Impact on self-esteem: Constriction can undermine one's sense of self-worth and personal agency, potentially leading to feelings of inadequacy or self-doubt.
+4. Cognitive effects: Constriction can influence cognitive processes, such as attention and memory. When individuals feel constrained, they are most focused on the limitations and restriction, which can divert attention from other areas. This may impact memory formation and recall.
+
+Humiliation, degradation, dehumanization. Associated taunts and mockeries.
+Traumas act to push the subject out of parts of their psyche while the subject self-relinquishes.
+
+
+.
+Common effects on the victim:
+Walking corpse syndrome:
+Walking corpse syndrome, also called Cotard's syndrome, is characterized by feelings of emptiness, non-existence, or a lack of vitality. They may feel as if they are decaying or their body is decomposing. This condition can be associated with other symptoms of depression, nihilism, and detachment of reality.
+
+Psychological Entrenchment
+Psychological entrenchment refers to a cognitive phenomenon where individuals are firmly entrenched in certain beliefs, attitudes, or behaviors, making it difficult for them to change their habits even when they desire to. "Walls" limit perception and one's ability to see beyond them. Breaking out of this mental imprisonment is akin to escaping from a well-fortified fortress that has been build around one's own thoughts, feelings, impressions, recollections.
+Just as breaking free from physical confinement is a strenuous and arduous process, freeing oneself from this kind of psychological entrenchment from an "adversarial shoring" requires a similar level of determination and effort.
+
+Tortured morality:
+Tortured morality refers to a state of moral conflict or distress experienced by individuals when they find themselves caught between conflicting ethical principles or when they are faced with difficult moral decisions. It is characterized by intense psychological and emotional turmoil resulting from the internal struggle to reconcile conflicting moral values, beliefs, or obligations. This can create a profound sense of guilt, anxiety, and inner turmoil. The conflicting moral principles may come from personal beliefs, cultural norms, religious teachings, or societal expectations, making the decison-making process even more challenging.
+There can be feelings of guilt, shame, and a loss of personal integrity as the subject struggles to reconcile their own values with those of others.
+Individuals can take on an emotional toll as they navigate the complexities of ethical dilemmas.
+
+1. Confusion: That initial reaction to explainable interference is often confusion. The lack of a clear cause or explanation can lead to disorientation and uncertainty.
+2. Frustration: As time goes on and one continues to face interference without a satisfactory explanation, frustration can set in. It can be incredibly frustrating to encounter obstacles or disruptions that seem to come out of nowhere or persist despite one's best efforts to understand or address them.
+3. Powerlessness: The inability to identify the source of interference and the feeling of being powerless to control or resolve it can be emotionally draining. It may leave one with a sense of helplessness, as if at the mercy of external forces beyond one's own comprehension or influence.
+4. Anxiety and stress: The constant presence of interference may interrupt one's daily routine and create a sense of instability in life.
+5. Isolation: As unexplainable interference often defies convention understanding, one can feel isolated or misunderstood. Others may struggle to grasp the depth of the experience or dismiss it as coincidence or imagination. This sense of isolation can compound the emotional impact of the interference.
+
+The subject is cast as someone who only is pretending to be a victim in a sarcastic or insincere manner, and may be also cast as being facetious or uncouth.
+This is to suggest the victim is not genuinely experiencing harm or adversity.
+A pulsing imposition that it's a joke and a game - "oh sweetheart!" 'Oh dear, yep okay! okie-doke!' 'oh wow look at you funny!' 'oh dear what are you going to do about it (haha)!'
+
+This implies the subject is intentionally exaggerating or fabricating their victimhood for personal gain or to manipulate others.
+
+
+-
+Known Characters:
+The term "characters" often implies that an individual exhibits distinctive traits, behaviors, or quirks. They embody qualities or characteristics that are extraordinary and more exaggerated than what is typically seen or expected. They may possess exaggerated or larger-than-normal physical attributes, such as height, size, or strength.
+
+Blond military man
+
+The "Blond military man" torturer displays as proud, boastful, and haughty with an exaggerated sense of pride and arrogance while appearing to derive pleasure from exerting power and control over others, often using humor as a tool to demean and ridicule. Their sense of humor is characterized by mockery, sarcasm, and a complete disregard for the feelings and well-being of their target. This character uses their physical appearance and perceived "social status as a blond man" to intimidate, harass, or exert power over others.
+They have a knack for identifying the vulnerabilities, insecurities, or differences of the individual and use those aspects as ammunition for their hurtful comments. They enjoy making others feel small and inadequate through their cutting remarks and demeaning jokes. Their intention is to humiliate and undermine the individual's self-esteem, often leaving them feeling embarrassed and insecure.
+This bully lacks empathy and demonstrates a lack of understanding or respect for boundaries. They thrive on the discomfort and distress of their target, finding amusement in their reactions and emotional pain. They may use their position of power or influence within a group to further amplify the impact of their bullying.
+Their humor is often targeted, cruel, and designed to isolate and exclude. They make derogatory comments about appearance, intelligence, or personal circumstances to instigate feelings of shame.
+Their actions are harmful and destructive, lacking empathy and disregarding the emotional well-being of those they bully.
+Bullying is a repetitive and aggressive behavior that takes advantage of a power imbalance. Some of the key elements of bullying include:
+1. Intentional and repetitive behavior: The bully intentionally targets the subject over an extended period, causing harm or distress.
+2. Power imbalance: This power can be derived from physical size, social status, or other factors that give the bully an advantage over the subject.
+3. Aggressive behavior: Bullying often involves aggressive actions, such as violence, harassment, rumors, teasing, or exclusion. The bully uses these behaviors to assert power and control.
+4. Harm or distress: Bullying causes harm, whether physical, psychological, or emotional. It can lead to low self-esteem, social withdrawal, and academic or economic difficulties.
+5. Lack of empathy: Bullies often display a lack of empathy or understanding. They may disregard the impact of their actions and intentionally inflict harm without remorse.
+6. Imbalance of social support: Bullies often have a network of supporters or bystanders who either actively participate in the bullying or passively observe without intervening.
+
+
+Buffoon Man
+
+This individual is confident in their ability to make someone become hostile or antagonistic towards something. They suggest they can bring about a particular emotional or mental state in the subject. This individual indicates they want to provoke or generate a feeling of hostility or antagonism in the subject. It suggests they are confident they can influence the subject's perspective and make them view memories, people, topics, ideas in a negative or hostile light, resulting in a hostile or antagonistic response towards the topic or idea.
+
+"Buffoon Man" tortures typically specialize in forced, sarcastic confrontations with loved ones. The deliberate and calculated nature of these confrontations creates an environment of psychological torment in which the vulnerabilities of the subject's loved ones are strategically exploited using sarcasm, offense, dis-relevance, over-pertinency, and other tools as a weapon to systematically degrade, humiliate, and manipulate. 
+
+Under the "buffoon" style, the torturer has a jolly, bouncy deposition and the subject is attacked as deadpan.
+
+Constant confrontations force a state of constant alertness and apprehension, with the subject never knowing when or how they will be subjected to further emotional distress. The relentless nature of the confrontations amplifies the sense of helplessness and despair, as they feel trapped in a cycle of abuse.
+
+
+Portly Confrontation Man
+
+This is a combative and confrontational personality that tends to take pride in their ability to intimidate or verbally attack others, often using their words or actions to assert dominance or intimidate others. 
+This individual actively seeks out opportunities to confront or challenge others, and they are unapologetic about their hostile approach. Their communication style is abrasive and aimed at provoking a strong reaction from the person they are targeting. They indicate their satisfaction in successfully engaging in aggressive behavior, confronting or challenging someone, and asserting their power over someone else while highlighting their belief in their own ability to asset themselves aggressively.
+
+This torturer tends to imply that they have a potential positive opinion of you, but your tendency to (be yourself) and (complain about torture) is a significant obstacle to forming a favorable impression. They employ satirical commentary and inject levity.
+1. Relieving tension: injecting levity to discount the seriousness of the pain and hurt.
+2. Connection and likability: The torturer shows a human and relatable side.
+3. Engagement: By incorporating "jokes", funny or witty relays.
+
+Size as intimidation:
+Size as intimidation involves individuals who are larger in size intentionally using their size to intimidate or assert power over others. This can involve using their physical presence to intimidate or bully others, relying that their size alone will make others feel inferior or submissive.
+This may also symbolize excessive consumption, materialistic desires, wealth and social status, indicating they have had access to plenty of food and resources, with a taunted lack of discipline and poor care.
+
+Disbelief or surprise at accusations of wrong-doing
+This character displays a sense of disbelief or surprise at an accusation, and may sardonically or sarcastically seek clarification while sometimes actually (darkly) reinforcing the validity of the claim.
+
+Confidential confession
+This refers to an occupier confessing or revealing something with the belief the subject will be too embarassed or intimidated to share the information.
+
+Other Abuses:
+- If one can enjoy anything even for a moment, things can't be that bad.
+- Can't find something or made a mistake: "that's why I detriment you"
+- I Forgot: "I beleaguringly blocked that relay"
+- Blaming, force associating pain with things one likes doing.
+- Entangle one's spouse with their sibling.
+- Entangle one's spouse with someone from middle school one hasn't in decades.
+- Entangle family heirlooms with garbage and toilet contents.
+- Someone gifted a perishable and it expired. Detriments disrespected and implies they suffer an effect.
+- Entangling chores and cooking with committing brutality against people.
+- Switch On Attack: The usurper suddenly transforms into a loved one when attacked.
+- No means Yes: The subject energizes one desire and the opposite desire is what energizes.
+- Chanting of "oh sweetheart!" into the forehead and face.
+- No Escape: forced moments of intimacy and relaxation with an Occupier.
+- One is deadpan or lonely for not wanting to be messed with
+- If you're busy doing anything, go do something else!
+- The glee and impunity of the Occupier.
+
+
+-
+Programming:
+Quantum programs are computer programs designed to run on quantum computers.
+Quantum programming languages provide abstractions and tools for expressing quantum algorithms and operations.
+Quantum programs consist of a series of quantum gates and measurements that manipulate, extract, and utilize information from qubits.
+Quantum programs can be used to implement quantum algorithms that benefit from gained information and properties incurred from superposition, entanglement, and interference.
+
+Data Usage:
+Quantum data can exist in superposition states, allowing quantum computers to process possibilities simultaneously. 
+Analyzing quantum data requires specialized techniques and tools to understand and manipulate the complex states involved.
+Quantum data is processed by using quantum algorithms, which are designed to take advantage of quantum phenomena.
+
+
+-
+Novel Materials
+The term "novel materials" refers to (new) materials that possess unique inherent properties. They are typically engineered or designed to exhibit specific characteristics that make them distinct and suitable for various applications.
+Novel materials can be specifically engineered to exhibit unique properties that enable the manipulation and control of quantum states.
+Novel materials often possess intricate structural characteristics that are difficult to predict and analyze. They are controlled and manipulated through the interplay of strain, electric, and magnetic fields, which enables precise control over the behavior and characteristics of these materials.
+
+Nanomaterials with specific quantum properties are integrated into quantum devices for manipulating and storing quantum information.
+
+Steps involved in the creation and deployment of novel materials include:
+
+1. Material selection: 
+Existing material is selected that will be used to create novel material. 
+This may include choosing basic elements, existing compounds (combinations), or constructed nanostructures that can provide the desired properties.
+This may involve extraction, which refers to a process of selectively removing material from other materials, typically by utilizing differences in solubility between the target material and the other material.
+
+2. Manufacturing: This is the process of creating the material with the desired structure and properties. The selected materials are synthesized or manufactured using various techniques such as:
+a. Synthesis: the combination of materials, extraction which involves selectively removing a desired material from another.
+b. Desposition: applies a 'coating' of a material onto another.
+c. Extraction: The removal of unwanted attributes to obtain a material with the desired properties.
+d. Additive manufacturing: builds materials from layers of other materials.
+
+3. Characterization: The material is tested to understand the material's structure, composition, and behavior.
+
+4. Optimization: Based on the outcome of characterization, the material may be optimized through further iteration.
+
+5. Applications: The engineered material is integrated into various applications depending on its properties and characteristics.
+
+These materials are used for applications involving computing, communication, sensing, and error correction.
+
+The potential of novel materials play a significant role in the creation and development of the manipulation and processing of information beyond traditional computing.
+
+
+-
+Conclusion
+
+I affirm that the documentation given is made to the best of my ability to truthfully and accurately represent the details presented as I know them, based on my personal observations and experiences, in maintaining the standards of honesty and integrity through the preparation of this documentation.
+
+The voices and attributes of the system described above provide the pervasive feeling of observation which are 24/7 present and there is never a moment alone, where every day involves brutal forced interactions and monitoring.
+
+There can be mock "identities" of people who are otherwise of repute and status being portrayed as vicious torturers acting with impunity.
+
+To the best of my ability, I have disclosed all relevant information pertinent to the design style, attributes, functionality, and output of "Adversarial Harrow."
