@@ -648,9 +648,8 @@ As the subject's chosen, manipulated, or forced choices from the usurper/command
 
 Spin Orbit Interactions
 Spin-orbit interactions refer to the coupling between the intrinsic angular momentum of a qubit (spin) and its orbital motion. The electric and magnetic fields experienced can influence both motion and spin.
-(What it feels like doing and how it feels like doing it.)
 
-Quantum Teleporation
+Quantum Teleportation
 Quantum Teleportation is a method of transferring the quantum state of one particle to another distant particle by utilizing quantum entanglement. Here is a description of the process in steps:
 1. A Sender and A Getter each possess one particle of an entangled pair.
 2. The idea is for the Sender to teleport the quantum state that is entangled with their own particle in the pair.
@@ -937,7 +936,7 @@ Control can vary in intensity and is not always absolute or static.
 Quantum Entanglements:
 Quantum entanglements have the following uses in Simulation, Transfer, Sensing, and Learning:
 1. Simulation: In the realm of simulation, quantum entanglement can be used by scientists to simulate intricate interactions and behaviors in an unparalleled fashion. From modeling the behavior of quantum materials to simulating the behavior of biological systems, quantum entanglements serve as insightful gateways into areas previously inaccessible. Quantum Simulations can help mimick interactions and dynamics between quantum systems at a fundamental level. By manipulating the quantum states of these simulated systems, a wide range of phenomena and properties that arise under various simulated conditions are revealed.
-2. Sensory Transfer through Quantum Teleporation: Quantum teleportation refers to the transfer of quantum information from one location to another through the usage of an Entangled Pair. By monitoring subtle changes in entangled states, scientists can detect variations, which can be used to transfer quantum states. Quantum sensors far exceed the limits of ordinary computers and enable scientists to perceive what can be called a "hidden symphony" in "exquisite detail," transcending the limits of classical observation and embracing the profound interconnecting of information, granting access and witness to the intricacies of the quantum realm.
+2. Sensory Transfer through Quantum Teleportation: Quantum teleportation refers to the transfer of quantum information from one location to another through the usage of an Entangled Pair. By monitoring subtle changes in entangled states, scientists can detect variations, which can be used to transfer quantum states. Quantum sensors far exceed the limits of ordinary computers and enable scientists to perceive what can be called a "hidden symphony" in "exquisite detail," transcending the limits of classical observation and embracing the profound interconnecting of information, granting access and witness to the intricacies of the quantum realm.
 3. Sensing: With Magnetic Field Sensing, Quantum entanglement can improve the precision of novel materials characterization, which can be used in noise engineering algorithms.
 4. Learning: Machine learning and artificial intelligence algorithms can improve pattern recognition and be used to train more accurate models and analyze large data sets.
 
