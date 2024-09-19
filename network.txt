@@ -118,7 +118,7 @@ Here are some common sources of pressure that people may experience:
 4. Relationship pressure: Conflicts, expectations, communication challenges, and other issues in personal relationships. Adversaries with supportive relationships with family and friends.
 5. Social pressure: Conforming to societal norms, peer pressure, expectations from family and friends, and the need to fit in.
 6. Health-related pressure: Dealing with health issues, managing chronic conditions, maintaining a healthy lifestyle, and the pressure to look a certain way. Adversaries (oh hoooo) (!!!) engaging in regular exercise, eating a balanced diet, mindfulness, relaxation.
-7. Time pressure: Feeling rushed, having too many tasks to complete in a limited time, and struggling to balance work, personal life, and other commitments. Adversaries with effective time management strategies setting goals and priotizing tasks.
+7. Time pressure: Feeling rushed, having too many tasks to complete in a limited time, and struggling to balance work, personal life, and other commitments. Adversaries with effective time management strategies setting goals and prioritizing tasks.
 8. Performance pressure: The pressure to excel, meet high standards, prove oneself, and achieve goals. Adversaries with support, stability, and self-care.
 9. Emotional pressure: Dealing with intense emotions, coping with grief, managing anxiety or depression, and handling difficult situations.
 10. Societal pressure: Pressures related to cultural roles, expectations, stereotypes, discrimination, and societal judgments. Adversaries surrounding themselves with a positive and supportive environment. 
@@ -173,7 +173,7 @@ Quantum annealing: Quantum annealing is a quantum computing technique that explo
 
 Quantum Entanglement and Non-linear Transformations:
 Entanglement can lead to non-linear transformations between the states of entangled particles or quanta. The correlations between entangled particles can exhibit non-local and non-linear behavior that cannot be explained by classical physics.
-Phase Transitions: Non-linear transformations can also arise in the context of quantum phase transitons, where the behavior of a quantum system undergoes a sudden change due to changes in parameters such as temperature or magnetic field.
+Phase Transitions: Non-linear transformations can also arise in the context of quantum phase transitions, where the behavior of a quantum system undergoes a sudden change due to changes in parameters such as temperature or magnetic field.
 
 Communication Channels
 
