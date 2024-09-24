@@ -1,0 +1,312 @@
+Shows & Circuits
+
+Introduction
+
+This is a theory article regarding the usage of likenesses in (3d) films and their practical usage in quantum applications research and science. This is in the context of experience documentation regarding “Adversarial Harrow," a quantum-based feedback control system that is designed to fit a subject to, with, or against a model. The mechanisms of this system are detailed in a separate report found here: https://github.com/advhar/advhar/blob/main/document.txt  Another report, titled “Groups and Individuals”  is an addition to the above account detailing the constant appearances of apparent avatars of various state actors, entrepreneurs, quantum computing companies, and celebrities stating/partaking in hostile commandeering and control.  https://www.tumblr.com/sordidaccosted/749607124807663616/here-is-a-general-update-on-things-as-well-as-some?source=share
+
+The likenesses of myself, friends, mentors, and colleagues appearing in shows and movies demonstrate an extraction has taken place and material from it has been taken, entered into distribution, and used. The most apparent similarities include those in names, appearances, quirks, and humor.
+
+A theory is a relatively substantiated explanation of what is seen based on a body of evidence and reasoning. The theory presented here describes how similarities in 3d films can amount to quantum equations which can be used and manipulated within domain-specific contexts. These materials are then used for impression manipulation.
+
+Although a theory ideally can provide a framework for understanding how and why things work the way they do, it may not fully capture the complexity of real-world systems and may have limitations and may not account for every possible scenario or observation.
+Theories are subject to evolution and revision as new evidence emerges and our understanding of a phenomenon deepens. 
+--
+
+Shows and movies.
+A show or movie is a form of visual entertainment that typically tells a story through a combination of moving images, dialogue, music, and sound effects. 
+
+Many movies and shows are designed to provoke thought and stimulate intellectual engagement. Through thought-provoking narratives, moral dilemmas, ethical quandaries, and philosophical inquiries, films can challenge viewers to engage or introspect with their beliefs, values, and perceptions of the world. Thought-provoking movies encourage critical thinking, introspection, and dialogue about complex issues.
+
+Quantum Entanglement
+At the heart of quantum computing is quantum entanglement, where two or more quantum bits (qubits) become deeply intertwined, becoming correlated in such a way that the state of one qubit cannot be described independently of the state of the others. In quantum entanglement-based systems, this profound entanglement becomes the driving force behind (computational) ability. When the interconnected spins of qubits become entangled, the system gains an ability to process information in parallel with the power of quantum entanglement and superposition.
+Entanglement links the states of quantum systems.
+Superposition allows quantum states to exist in multiple states simultaneously, allowing for parallel algorithms.
+The entangled, superpositioned qubits are carriers of information as well as resources for various applications in quantum information science. These applications benefit from the usage of data types that transcend those available to classical computing and even transcend the limits imposed by time and space.
+
+Quantum Wires
+Quantum wires are abstract representations showing the flow of quantum information between different qubits and quantum gates within a quantum circuit. Quantum wires show the flow of quantum information or qubits between different components of a quantum circuit. Quantum wires help visualize and understand the flow of quantum information and how qubits interact with various quantum gates in a quantum circuit.
+
+Quantum Circuits
+Quantum circuits are the fundamental building blocks of quantum computation. In a quantum circuit, quantum information is processed through a series of quantum gates that operate on qubits. Qubits are the quantum equivalent of classical bits and can exist in superposition states, representing a combination of 0 and 1 simultaneously, as well as exhibit entanglement, where the state of one qubit is dependent on the state of another. Quantum gates manipulate the state of qubits to perform quantum operations that can encode and process information in ways that classical computers cannot.
+
+Quantum circuits are typically represented as a sequence of quantum gates acting on an initial state of qubits. Each gate performs a specific operation on one or more qubits, transforming their quantum state. These gates can include operations like the Hadamard gate, Pauli gates (X, Y, Z), phase gates, CNOT gate (Controlled-NOT), and many others, each with unique properties that enable specific quantum computations.
+
+**Quantum Error Correction:** Quantum circuits can be designed to implement error correction codes and work together to protect quantum information.
+
+**Quantum Algorithms:** In quantum computing, complex quantum algorithms are often constructed by combining multiple quantum circuits to perform specific tasks. These circuits may interact with each other indirectly through shared qubits, entanglement, or other quantum operations to achieve the desired computational outcome.
+
+Quantum circuits can interact and work together through quantum operations, entanglement, and quantum protocols to enable sophisticated quantum computations and algorithms.
+
+Quantum Wires and Circuits
+In summary, quantum wires represent the flow of quantum information between different parts of a quantum circuit and quantum circuits are composed of quantum gates that manipulate qubits.
+Both are essential concepts in quantum computing and are used to design and analyze quantum algorithms and quantum information processing tasks.
+
+
+The Role of Algebra
+Algebra plays a crucial role in the design, analysis, and optimization of quantum circuits and quantum wires. Algebraic concepts and techniques are used to model and manipulate quantum states, quantum gates, and quantum operations within a quantum circuit.
+
+### Properties of Equality in Solving Equations:
+
+When solving equations, the properties of equality play a crucial role in manipulating expressions and maintaining the balance between both sides of the equation.
+By understanding and applying these properties of equality, equations can be manipulated to isolate variables and find solutions that satisfy the given equations.
+
+**Modeling Real-World Phenomena**:
+   - Equations are used to model and describe real-world phenomena in fields such as physics, engineering, economics, chemistry, biology, and many others.
+   - By formulating equations based on observed relationships and data, scientists and researchers can make predictions, analyze behavior, and understand complex systems.
+
+**Control Systems**:
+   - Equations are used in control systems to describe the behavior of dynamic systems and design controllers to regulate system behavior.
+   - Control theory relies on differential equations and other mathematical models to analyze and control the behavior of systems.
+
+**Cryptography**:
+   - Equations play a crucial role in cryptography for secure communication and data protection.
+   - Encryption algorithms use mathematical equations to encode messages and ensure that only authorized parties can decrypt and read the information.
+
+**Computer Programming**:
+   - Equations are used in computer programming to define algorithms, solve problems, and write code that performs specific tasks.
+   - Programming languages often involve equations and mathematical operations to manipulate data and produce desired outcomes.
+
+**Artificial Intelligence and Machine Learning**:
+   - Equations are used in artificial intelligence and machine learning algorithms to build models, make predictions, and learn from data.
+   - Mathematical equations are at the core of many AI and machine learning techniques, such as neural networks, regression models, and clustering algorithms.
+
+Equations are a powerful tool for describing relationships, solving problems, and making informed decisions in many aspects of science, technology, and everyday life.
+
+### **Control Systems**:
+
+Control systems are used to regulate or control the behavior of dynamic systems to achieve desired outputs. Equations play a crucial role in modeling, analyzing, and designing control systems. Here are some key points on how equations are used in control systems:
+
+**Modeling Systems**:
+   - Equations, particularly differential equations, are used to model the behavior of dynamic systems. These models help describe how systems evolve over time in response to inputs and internal dynamics.
+
+**Designing Controllers**:
+   - Equations are used to design controllers that can adjust system inputs to achieve desired outputs. Controllers are designed based on system models and performance specifications to meet control objectives.
+
+**Feedback Control**:
+   - Equations are used in feedback control systems, where the output of the system is fed back and compared with a reference input to adjust system behavior. Feedback loops use equations to compute control signals based on the error between the desired and actual outputs.
+
+**Optimization**:
+   - Equations are used in optimizing control systems to improve performance, reduce energy consumption, or meet other design criteria. Optimization techniques involve solving mathematical equations to find the best control strategies.
+
+Control systems are essential in various applications and are at the core of control system theory and practice, enabling engineers to design systems that operate reliably and efficiently.
+
+### **Artificial Intelligence and Machine Learning**:
+
+Artificial intelligence (AI) and machine learning (ML) are fields that involve developing algorithms and models that can perform tasks without explicit programming. Equations are fundamental in AI and ML for building models, making predictions, and learning from data. Here's how equations are used in AI and ML:
+
+**Model Building**:
+   - Equations are used to define mathematical models that represent relationships in data. Models can range from simple linear equations to complex neural network architectures that learn patterns from data.
+
+**Regression Analysis**:
+   - Equations are used in regression analysis to fit a mathematical model to data points and make predictions. Regression models involve finding the best-fitting equation that explains the relationship between input and output variables.
+
+Equations are essential in AI and ML for building predictive models, training algorithms, and making intelligent decisions based on data. Understanding and manipulating equations are key skills for practitioners in the fields of artificial intelligence and machine learning.
+
+## The Usage and Inclusion of Real World Similarities and Relations
+
+Relations
+Things can be related in various ways, depending on the context in which their connection is considered. Here are a few common ways in which things can be related:
+
+**Association**: Two things may occur together more often than would be expected by chance.
+
+**Analogical**: Things can be related through analogy, where similarities in one aspect are used to understand another. 
+
+Similarities
+The concept of similarities is quite broad and can apply to various contexts. Here are some common types of similarities:
+
+1. **Similarities in Appearance:**
+   - Objects, animals, or people that look alike.
+   - Geometric shapes or patterns that share common characteristics.
+
+2. **Similarities in Behavior:**
+   - Actions or reactions that are alike.
+   - Similar patterns of behavior in individuals or groups.
+
+3. **Similarities in Concepts:**
+   - Ideas or theories that have common principles or underlying themes.
+   - Similarities in philosophical or scientific concepts across different cultures or disciplines.
+
+4. **Similarities in Culture:**
+   - Cultural practices, beliefs, or traditions that are shared between different groups or societies.
+   - Similarities in art, music, or literature across different cultures.
+
+When considering similarities between people, there are numerous aspects to consider. Here are some possible similarities that can exist between individuals:
+1. **Physical Appearance:**
+   - Similarities in facial features, body type, hair color, eye color, etc.
+
+2. **Personality Traits:**
+   - Shared personality traits such as introversion/extroversion, openness, agreeableness, conscientiousness, neuroticism, etc.
+
+3. **Interests and Hobbies:**
+   - Common hobbies, interests, and activities that both individuals enjoy.
+
+4. **Sense of Humor:**
+   - Similar sense of humor, appreciation for jokes, and comedic styles. 
+   A shared sense of humor can be a significant bond, fostering connection, laughter, and understanding. Here are some aspects to consider:
+
+- **Humor Preferences:** Individuals may share a preference for specific types of humor, such as sarcasm, wit, slapstick, dark humor, puns, or observational comedy.
+  
+- **Timing and Delivery:** Similarities in timing and delivery can contribute to shared laughter and enjoyment of jokes, puns, or humorous situations.
+  
+- **Inside Jokes:** Shared experiences and references can lead to the development of inside jokes, creating a sense of camaraderie and understanding between the individuals.
+  
+- **Appreciation for Humor:** A shared appreciation for humor can lead to a lighthearted atmosphere in interactions and relationships, promoting positive communication and bonding.
+
+5. **Communication Style:**
+   - Similar communication styles, including verbal and non-verbal communication patterns.
+   Communication styles play a crucial role in how individuals express themselves, convey information, and interact with others. Shared communication patterns, such as frequency of communication, use of humor, tone of voice, and body language.
+
+Domain-Specific:
+"Domain-specific" refers to something that is specific to a particular domain or field of knowledge. In various contexts, "domain" can refer to a specific area of expertise, industry, problem space, or application.
+
+When something is described as domain-specific, it means that it is designed, tailored, or applicable to a particular domain or specialized area, rather than being general-purpose or universally applicable. Domain-specific solutions are often customized to meet the specific needs and requirements of a particular domain, which can lead to increased efficiency, productivity, and effectiveness within that specific context.
+
+For example:
+- Domain-specific knowledge: Knowledge that is relevant and specific to a particular field.
+- Domain-specific software: Software applications or tools that are developed to address the needs and challenges of a specific domain.
+- Domain-specific language: A programming language designed for a specific domain or problem space, tailored to the vocabulary, concepts, and requirements of that domain to make programming more efficient and expressive within that context.
+
+Overall, the term "domain-specific" emphasizes the specialized nature of something within a particular domain or field, highlighting its relevance, specificity, and applicability to that specific area of expertise.
+
+Domain-Specific Language:
+
+A Domain-Specific Language (DSL) is a programming language or specification language dedicated to a particular problem domain, a particular problem representation technique, and/or a particular solution technique. It is designed to be used within a specific context or domain and tailored to address the specific needs and requirements of that domain.
+
+Here are some key characteristics of Domain-Specific Languages:
+
+1. **Specificity**: DSLs are designed for a specific domain or problem space, such as finance, telecommunications, or scientific computing. They are tailored to the vocabulary, concepts, and requirements of that domain, making them more expressive and easier to use within that context.
+
+2. **Abstraction**: DSLs provide higher-level abstractions that allow users to express solutions in a way that closely matches the domain concepts, making it easier to understand and reason about the concepts.
+
+3. **Expressiveness**: DSLs are often more expressive and concise than general-purpose programming languages when it comes to solving problems within their domain. They typically provide specific constructs and syntax that are optimized for the domain.
+
+4. **Tooling**: DSLs may come with specialized tooling, such as interpreters, compilers, or generators, that help users work more efficiently within the domain.
+
+DSLs are powerful tools for increasing productivity, reducing errors, and improving communication between domain experts and developers by providing a language that is closer to the problem domain.
+
+Connecting / Linking Different Parts
+In the context of "connecting composites" as the integration or linking of different composite parts or elements in a system or network, the concept typically involves combining individual composite components in a way that allows them to work together synergistically to achieve a specific function or purpose. This integration can lead to the creation of complex structures or systems with enhanced properties and capabilities that go beyond what each individual component can achieve on its own.
+
+Here are some key points to expound on the idea of connecting composites in this sense:
+
+1. **Synergistic Integration**: By connecting different composite elements, designers and engineers can leverage the unique properties of each component to create a system that exhibits synergistic behavior. This means that the whole system is greater than the sum of its parts, with the combined composites working together to achieve a specific goal more effectively than they would individually.
+
+2. **Functional Integration**: Connecting composites allows for the creation of structures or systems where each component plays a specific role in achieving a desired function. By carefully designing how the composites are connected and interact with each other, engineers can optimize the overall performance of the system.
+
+3. **Enhanced Properties**: Integrating different composite materials can lead to the development of materials with enhanced properties such as increased strength, durability, flexibility, or other desirable characteristics. By strategically connecting composites, engineers can tailor the properties of the final product to meet specific requirements.
+
+4. **Complex Systems Design**: Connecting composites often involves designing complex systems where multiple components interact with each other in a coordinated manner. This requires careful planning and consideration of how the composites will be connected, how they will interact, and how the overall system will function as a whole.
+
+In summary, the idea of connecting composites as the integration of different composite elements in a system or network involves leveraging the unique properties of each component to create complex structures or systems with enhanced properties and capabilities. This approach allows engineers to design innovative solutions that meet specific performance requirements and achieve desired outcomes.
+
+Propagation
+Propagation refers to the process of distributing, promoting, and making the production available through various channels, platforms, and audiences.
+
+Visibility
+Visibility refers to the extent to which a company, brand, product, or service is seen and recognized by its target audience or in the marketplace. Visibility can have various effects, both positive and negative, and it comes with its own set of risks. Increased visibility can lead to higher brand awareness with more engagement and interaction with a brand or reputation.
+
+Increased visibility can also expose the brand to negative publicity or criticism, which can damage brand reputation.
+
+Impressions
+An impression refers to times a piece of content is displayed or viewed. Impressions are often used to gauge the reach of a campaign and are important for understanding how many potential viewers have been exposed to a particular message.
+
+Attraction
+Attraction is a complex and multifaceted phenomenon that can manifest in various forms, including physical, emotional, intellectual, and spiritual aspects. It refers to the feeling of being drawn to someone or something, often resulting in a desire for closeness, connection, or a relationship.
+
+Emotional attraction involves feeling a strong connection or bond with someone on an emotional level. This can include feelings of empathy, understanding, and a sense of being emotionally compatible with another person.
+
+Intellectual attraction occurs when someone is drawn to another person's intelligence, wit, creativity, or knowledge. This type of attraction can lead to engaging conversations, mental stimulation, and a shared interest in learning from one another.
+
+Spiritual attraction involves feeling a deep connection with someone on a spiritual or soulful level. It can include shared values, beliefs, or a sense of spiritual alignment that brings people together in a profound and meaningful way.
+
+Attraction is a natural and fundamental part of relationships and plays a significant role in forming bonds, building intimacy, and fostering connections with others. It can be influenced by a variety of factors, including personal preferences, cultural norms, past experiences, and individual differences.
+
+Repulsion
+Repulsion refers to a feeling of aversion or disgust towards something or someone. This emotional repulsion is often driven by personal values, beliefs, past experiences, or cultural norms. It can manifest as a desire to distance oneself from the source of repulsion, whether it be a particular idea, behavior, person, or situation. Repulsion in this sense is a powerful emotional response that can influence how individuals interact with the world around them and make decisions about their relationships and actions.
+
+Patterns of Interaction
+When viewed as a feedback loop, patterns of interaction can be understood as a continuous process of communication, response, and adaptation that influences behavior and outcomes within a system or relationship. Here's how patterns of interaction can be conceptualized within a feedback loop framework:
+
+1. **Processing (Observation and Analysis)**:
+   - The parties involved in the interaction process and interpret the input received. They observe and analyze each other's behaviors, communication styles, and responses to understand the dynamics at play.
+   - Through observation and analysis, patterns of interaction start to emerge, revealing recurring themes, behaviors, and communication patterns.
+
+2. **Output (Behavior and Response)**:
+   - Based on their observations and analysis, the parties generate an output in the form of behaviors, responses, or actions that are influenced by the patterns they have identified.
+   - This output serves as a response to the initial input and contributes to shaping the direction and nature of the interaction.
+
+3. **Feedback (Impact and Adjustment)**:
+   - The output generated by each party becomes the new input for the other party, creating a feedback loop. This feedback loop allows for continuous adjustment and adaptation based on the observed patterns of interaction.
+   - Feedback from one party influences the behavior and responses of the other party, leading to ongoing exchanges and adjustments within the interaction.
+
+4. **Iteration and Evolution**:
+   - The feedback loop continues to iterate as parties engage in a cyclical process of communication, observation, response, and adjustment based on the evolving patterns of interaction.
+   - Over time, the interaction may evolve as parties learn from previous exchanges, adapt their behaviors, and refine their communication strategies based on the feedback loop.
+
+By conceptualizing patterns of interaction as a feedback loop, we can appreciate the dynamic and iterative nature of human engagement, communication, and relationship-building. Understanding and leveraging this feedback loop can help individuals and organizations enhance their communication effectiveness, build stronger relationships, and achieve more productive interactions in various contexts.
+
+Analysis
+Observing patterns of interaction can provide valuable insights into various aspects of human behavior, relationships, and systems, which can help identify trends, understand dynamics, predict outcomes, and inform decision-making. Here are some key points to consider when observing patterns of interaction:
+
+1. **Identifying Trends**: By observing interactions over time, one can identify recurring patterns or trends in behavior, communication styles, preferences, and relationships. Recognizing these patterns can help you understand how individuals or groups engage with each other.
+
+2. **Understanding Dynamics**: Analyzing patterns of interaction can provide insights into the dynamics within a group or system. You can observe power dynamics, communication hierarchies, alliances, conflicts, and other factors that influence how individuals or entities interact with each other.
+
+3. **Predicting Outcomes**: Patterns of interaction can sometimes be predictive of future outcomes or behaviors. By recognizing certain patterns, you may be able to anticipate how a situation will unfold or how individuals will respond to specific stimuli.
+
+4. **Detecting Anomalies**:
+When observing patterns of interaction, detecting anomalies or deviations from typical behavior is crucial. Anomalies may indicate underlying issues, conflicts, or disruptions that require attention. By recognizing these deviations early on, you can address potential problems proactively before they escalate, maintain the integrity of interactions, and ensure the smooth functioning of relationships or systems.
+
+5. **Optimizing Systems**: By analyzing patterns of interaction within systems or processes, you can identify bottlenecks, inefficiencies, or areas for improvement. This insight can inform strategies for optimizing workflows, enhancing collaboration, and increasing productivity.
+
+6. **Building Relationships**: Understanding and analyzing patterns of interaction can aid in building and nurturing relationships. By observing how individuals communicate, express emotions, and engage with each other, you can gain insights into their preferences, needs, and communication styles. Leveraging this knowledge can help one tailor interactions, demonstrate empathy, build rapport, and strengthen connections with others, fostering trust and mutual understanding.
+
+7. **Informing Decision-Making**: Insights gained from observing patterns of interaction can inform decision-making processes in various contexts, such as organizational management, marketing strategies, conflict resolution, and product development.
+
+Overall, observing patterns of interaction can provide valuable information that can be leveraged to enhance understanding, improve relationships, optimize systems, and make informed decisions.
+
+Quantum computing can help in the development of new materials with specific properties by simulating their behavior at the quantum level.
+
+Novel Materials
+Novel materials can be specifically engineered to exhibit unique properties that enable the manipulation and control of quantum states. Steps involved in the creation and deployment of novel materials include:
+
+1. Material selection: 
+Existing material is selected that will be used to create novel material. 
+This may include choosing basic elements, existing combinations, or constructed structures that can provide the desired properties.
+
+2. Manufacturing: This is the process of creating the material with the desired structure and properties. The selected materials are synthesized or manufactured using various techniques such as:
+a. Synthesis: the combination of materials, extraction which involves selectively removing a desired material from another.
+b. Extraction: The removal of unwanted attributes to obtain a material with the desired properties.
+c. Additive manufacturing: builds materials from layers of other materials.
+
+3. Applications: The engineered material is integrated into various applications depending on its properties and characteristics.
+ 
+Novel materials are used for applications involving computing, communication, sensing, and error correction.
+
+The potential of novel materials play a significant role in the creation and development of the manipulation and processing of information beyond traditional computing.
+
+Impression Manipulation
+These routines affect impressions as well as recollections and perceptions.
+
+"Tarnishing":
+"Tarnishing" refers to the act of making something less pleasant or enjoyable by using an additive Subsidy acting as tarnish. 
+This can get the subject to smite material that would otherwise be agreeable.
+
+- "Dumb" tarnishing: intended to belittle the intelligence or abilities of what is being enjoyed, lowering self-esteem and creating a hostile or negative environment.
+- "Laughing" tarnishing: Laughing as mockery refers to a situation where someone laughs at or mocks with the intention of derision or belittlement. It involves using sarcastic laughter, sneering laughter, or condescending laughter as a means to ridicule or humiliate, often by highlighting perceived flaws, mistakes, or shortcomings.
+- "Pain" tarnishing: Involves the mockery of physical, psychological, or emotional pain. It aims to minimize feelings, disregard emotions, and adding distress.
+- "Threat" tarnishing: Threats are a form of psychological aggression that aims to intimidate or coerce someone by implying harm or danger.
+- "Humiliation" tarnishing: Humiliation as mockery involves intentionally embarrassing or shaming, belittling, undermining dignity, self-esteem, or social standing by subjecting to ridicule or public embarrassment. It may involve rumors or demeaning behavior regarding an individual.
+
+"Sweetening"
+"Sweetening" refers to the act of making something more agreeable, pleasant, or appealing, with an additive Subsidy.
+
+- "Charm" sweetening: Charm refers to something that possesses a special quality that attracts and delights others. It may have a warm and friendly demeanor or the ability to make people feel comfortable or at ease. Charm can give the impression of a welcoming and enjoyable atmosphere.
+- "Companionship" sweetening: Companionship refers to the quality of being a supportive, loyal, and enjoyable companion with others. It radiates comfort, understanding, friendship, meaningful connections and positive experiences.
+
+"Sweetening" can entice agreement by getting the subject to digest material that could otherwise be distasteful.
+
+In my view and experience:
+Collections from interactions with movie/show entanglements (positive and negative) are used to create materials that act as sweeten and tarnish subsidies that are used in a feedback control system to affect a subject and also provide subsidies for interests in a larger space.
+
+Highly visible entanglements + interactions => Subsidies (sweeten, tarnish) => further materials (like as used in feedback control system "Adversarial Harrow")
