@@ -1,3 +1,7 @@
+"Adversarial Harrow" Experience Documentation
+Aaron LaRoche
+March 2024
+
 Executive Summary:
 The document provides detailed information about "Adversarial Harrow," an apparent quantum system that uses feedback control, noise engineering, and quantum circuits to manipulate individuals and fit them to, with, or against an existing model. The system described obviously carries implications as a human rights abuse and is associated with various harmful effects such as torture, arbitrary detention, discrimination, and violations of freedom of expression, health, and education.
 
