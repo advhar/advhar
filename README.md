@@ -1,5 +1,7 @@
 Aaron LaRoche
-![the author](https://ibb.co/C5XzqSt)
+
+![the author](https://i.ibb.co/hRnykTM/50-B89254-C586-44-B3-A868-2-ECCBB4684-C6-1-105-c.png)
+
 Adversarial Harrow
 
 Adversarial Harrow is a quantum-based feedback control and thermal management system application featuring augmented reality, virtual reality, and mixed reality all powered by novel materials made significant by extended reality and other means.
