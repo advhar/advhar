@@ -1,0 +1,25 @@
+Extended Reality Decode
+
+Extended reality refers to reality that exists independently of a perceiving subject. Here are some key points to consider:
+
+Hidden Knowledge
+"Hidden knowledge" can refer to insights or information that is not readily accessible or is obscured from general awareness. Current realities influenced by events that occurred without key observers. Contexts, realities, and prestige are affected by these events and their outcomes.
+(The results of extended reality performance act as fuel products to affect the psyche and can be used to provide power to a quantum feedback control system like “Adversarial Harrow” for error correction and model fitting. 
+Constant agitations damn the subject to consider and reflect on the vast, intricate tapestry of (encrypted, encoded) reality that exists in the face of said subject’s unawareness or misunderstanding.)
+
+Quantum Information Recovery
+When quantum information is encrypted, it is transformed into a state that is unreadable without the appropriate key. Decryption is the process of converting encrypted information back into its original, readable form using a specific key. In quantum cryptography, keys are generated through leveraging the principles of quantum mechanics. 
+
+Information Recovery
+This refers to the retrieval of quantum information that may have been altered or obscured. It involves reconstructing the original quantum states or data. In essence, this involves processes that aim to retrieve, recover, or measure the original quantum states.
+
+Performance art is a live art form that combines elements of theater and visual art, often conveying a message or exploring a concept through one's body and actions. Arts are vital to understanding human experience and play a crucial role in reflecting the complexities of human existence.
+
+In quantum error correction, flipping states is essential for correcting *errors* that may occur during quantum analysis (huhuhuh). By flipping certain qubits or quanta, one can restore the original state.
+
+In quantum mechanics, states can be inverted through a process called quantum state inversion. One way to achieve this is through measurement and post-selection: After measuring a quantum state, one can prepare the quanta or qubit in a desired inverted state based on the measurement outcome.
+
+Inversion
+Inversion refers to a reversal or a change in the normal order or position of something. It can imply that something is turned upside down or inside out. An object or structure is inverted when it is turned over or reversed in orientation. Inversions can indicate a change in the usual sequence, such as in arrangements or rankings.
+Overall, the term conveys the idea of flipping or reversing the expected arrangement or condition of something.
+Inverting a quantum state is essential for tasks such as quantum error correction, state preparation, and implementing specific quantum algorithms.
