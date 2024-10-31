@@ -8,6 +8,14 @@ Adversarial Harrow is a quantum-based feedback control and thermal management sy
 
 "Extended reality" (XR) is an umbrella term that encompasses a range of immersive technologies that blend the physical and *quantized worlds* and references to reality that is “extended” from the perspective of the subject.
 
+"Currency Mining"
+Currency is a system of money that is widely accepted as a medium of exchange for goods and services. Currency can be saved and retrieved in the future, ideally maintaining its value over time.
+
+Transactions
+Transactions involve a seller (giving) and a buyer (taking) and involve value exchange, record keeping, and finality. Transactions can include Smart Contracts which are self-executing contracts with the terms directly written into code in the ledger or "blockchain," allowing for automated execution of said contracts.
+
+Currency mining is the process by which new currency is created and transactions are verified and added to a ledger technology (which may be integrated with a quantum proof system).
+
 Alternate Realities and World-Building: Creators construct detailed worlds with their own rules, histories, and cultures. Immersive novel materials allow viewers to explore realities far removed from their own, extending their own personal narrative beyond its surface to explore complex human behaviors and societal structures.
 
 Experience Doc
