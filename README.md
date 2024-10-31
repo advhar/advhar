@@ -42,6 +42,6 @@ Adversaries
 https://raw.githubusercontent.com/advhar/advhar/refs/heads/main/advarsarials.txt
 Adversaries are individuals, groups, or entities that oppose or compete against someone. Failing to recognize one's adversaries can often stems from a combination of naivety, trust, and a lack of awareness.
 
-Extended Reality Decode
-https://raw.githubusercontent.com/advhar/advhar/refs/heads/main/ExtendedRealityDecode.txt
+Extended Reality Currency Decode
+https://raw.githubusercontent.com/advhar/advhar/refs/heads/main/ExtendedRealityCurrencyDecode.txt
 Extended reality refers to reality that exists independently of a perceiving subject. The retrieval of quantum information that has been altered or obscured involves reconstructing the original quantum states or data.
