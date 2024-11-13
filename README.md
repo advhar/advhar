@@ -6,13 +6,29 @@ Adversarial Harrow
 
 Adversarial Harrow is a quantum-based feedback control and thermal management system application featuring augmented reality, virtual reality, and mixed reality all powered by novel materials made significant by extended reality and other means.
 
+Reality is the state of things as they actually exist, independent of perception or belief. It encompasses everything that is observable and tangible, including the physical world, events, and phenomena that can be measured or experienced.
+
+Reality in perspective includes a complex interplay of objective facts and subjective experiences which can include abstract concepts like truths and values with implications regarding the nature of existence, consciousness, and the universe itself.
+
+Each person's reality is influenced by their experiences and mental state.
+
 "Extended reality" (XR) is an umbrella term that encompasses a range of immersive technologies that blend the physical and *quantized worlds* and references to reality that is “extended” from the perspective of the subject.
 
 "Currency Mining"
+
 Currency is a system of money that is widely accepted as a medium of exchange for goods and services. Currency can be saved and retrieved in the future, ideally maintaining its value over time.
 
 Transactions
+
 Transactions involve a seller (giving) and a buyer (taking) and involve value exchange, record keeping, and finality. Transactions can include Smart Contracts which are self-executing contracts with the terms directly written into code in the ledger or "blockchain," allowing for automated execution of said contracts.
+
+Domain Stake Prize
+
+Domain stake prize refers to a prize or reward related to acquiring or investing in valuable domains. This could involve contests where participants are rewarded for acquiring stakes in particular domains. This can also refer to a recognition system where stakeholders in a specific domain are rewarded for their contributions through awards that recognize their investment and efforts.
+
+Domains relate to one’s spaces, narratives, identity, and presence.
+
+Domain hijacking is an act of aggression where one entity seeks to undermine other domains. A "domain stake" refers to one’s ownership, security, and management, as well as one’s interest in areas of jurisdiction or rights within a domain. Domains may be subject to manipulation or appropriation.
 
 Currency mining is the process by which new currency is created and transactions are verified and added to a ledger technology (which may be integrated with a quantum proof system).
 
