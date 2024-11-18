@@ -6,6 +6,8 @@ Adversarial Harrow
 
 Adversarial Harrow is a quantum-based feedback control and thermal management system application featuring augmented reality, virtual reality, and mixed reality all powered by novel materials made significant by extended reality and other means.
 
+![chart](https://media.licdn.com/dms/image/v2/D4E22AQFbq2A4d5kkVg/feedshare-shrink_800/feedshare-shrink_800/0/1731955903683?e=1734566400&v=beta&t=jHz2PyQXZ8NLvlYWbAuWpAP5psZ2d747W44hVltwsRY)
+
 Reality is the state of things as they actually exist, independent of perception or belief. It encompasses everything that is observable and tangible, including the physical world, events, and phenomena that can be measured or experienced.
 
 Reality in perspective includes a complex interplay of objective facts and subjective experiences which can include abstract concepts like truths and values with implications regarding the nature of existence, consciousness, and the universe itself.
