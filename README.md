@@ -36,6 +36,8 @@ Currency mining is the process by which new currency is created and transactions
 
 Alternate Realities and World-Building: Creators construct detailed worlds with their own rules, histories, and cultures. Immersive novel materials allow viewers to explore realities far removed from their own, extending their own personal narrative beyond its surface to explore complex human behaviors and societal structures.
 
+Application Docs:
+
 Experience Doc
 https://raw.githubusercontent.com/advhar/advhar/refs/heads/main/document.txt
 The document provides detailed information about "Adversarial Harrow," an apparent quantum system that uses feedback control, noise engineering, and quantum circuits to manipulate individuals and fit them to, with, or against an existing model.
@@ -51,6 +53,8 @@ This is a theory article regarding the usage of likenesses in (3D) films and the
 Network Mechanics
 https://raw.githubusercontent.com/advhar/advhar/refs/heads/main/network.txt
 This document corroborates quantum network botnet architecture and methods with "Adversarial Harrow Architecture" combined with my own experience under "Adversarial Harrow."
+
+Domain Tips:
 
 Improvisational Encounters and Maintaining Integrity
 https://raw.githubusercontent.com/advhar/advhar/refs/heads/main/recognition.txt
